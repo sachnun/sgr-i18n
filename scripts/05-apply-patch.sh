@@ -6,6 +6,10 @@ cd "$PATCHDIR"
 sha256sum -c SHA256SUMS
 cp "$GAMEDIR/scenario_body.bin" "$GAMEDIR/scenario_body.bin.EN.bak"
 cp "$GAMEDIR/scenario_info.psb.m" "$GAMEDIR/scenario_info.psb.m.EN.bak"
+cp "$GAMEDIR/config_body.bin" "$GAMEDIR/config_body.bin.EN.bak"
+cp "$GAMEDIR/config_info.psb.m" "$GAMEDIR/config_info.psb.m.EN.bak"
 xdelta3 -d -f -s "$GAMEDIR/scenario_body.bin.EN.bak" scenario_body.bin.id.xdelta "$GAMEDIR/scenario_body.bin"
 xdelta3 -d -f -s "$GAMEDIR/scenario_info.psb.m.EN.bak" scenario_info.psb.m.id.xdelta "$GAMEDIR/scenario_info.psb.m"
+xdelta3 -d -f -s "$GAMEDIR/config_body.bin.EN.bak" config_body.bin.id.xdelta "$GAMEDIR/config_body.bin"
+xdelta3 -d -f -s "$GAMEDIR/config_info.psb.m.EN.bak" config_info.psb.m.id.xdelta "$GAMEDIR/config_info.psb.m"
 ls -la "$GAMEDIR"/scenario_*
