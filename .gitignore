@@ -1,0 +1,5 @@
+*.bin
+*.psb.m
+!assets/info.plain.psb
+__pycache__/
+*.pyc
