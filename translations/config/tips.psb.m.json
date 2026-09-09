@@ -1459,7 +1459,7 @@
       "tips_list": [{
           "ctgr": "Lainnya",
           "name": "Asetilkolin",
-          "note": "Neurotransmitter. Kadar asetilkolin di hippocampus meningkat saat belajar atau mengingat.",
+          "note": "Neurotransmiter. Kadar asetilkolin di hippocampus meningkat saat belajar atau mengingat.",
           "ruby": "Asetilkolin"
         },{
           "ctgr": "Lainnya",
@@ -1479,592 +1479,592 @@
         },{
           "ctgr": "Chuunibyou",
           "name": "Akashic Records",
-          "note": "Database tempat tiap peristiwa seluruh universe dari masa lalu ke masa depan direkam. Ingatan kesadaran kolektif umat manusia. Bukan vinyl.",
+          "note": "Basis data tempat tiap peristiwa seluruh semesta dari masa lalu ke masa depan tercatat. Ingatan kesadaran kolektif umat manusia. Bukan piringan hitam.",
           "ruby": "Akashic Records"
         },{
           "ctgr": "Chuunibyou",
           "name": "Alkimia",
-          "note": "Seni mengambil satu hal dan transmutasi jadi lain. Dalam fiksi, bahkan tubuh dan jiwa manusia bisa ditransmutasi. Equivalent exchange adalah hukum fundamental alkimia. Di Abad Pertengahan, alkemis coba pakai proses kimia untuk transmutasi logam biasa, seperti timbal, jadi logam mulia, seperti emas. Upaya mereka pave jalan untuk kimia modern.",
+          "note": "Seni mengambil satu hal dan mengubahnya jadi lain. Dalam fiksi, bahkan tubuh dan jiwa manusia bisa ditransmutasi. Pertukaran setara adalah hukum dasar alkimia. Di Abad Pertengahan, alkemis mencoba memakai proses kimia untuk mengubah logam biasa, seperti timbal, jadi logam mulia, seperti emas. Upaya mereka membuka jalan bagi kimia modern.",
           "ruby": "Alkimia"
         },{
           "ctgr": "Lainnya",
           "name": "Alpaka",
-          "note": "Mamalia. Terkait unta.\nBerat Rata-rata: 50-55 kg\nPanjang Rata-rata: Sekitar 2m\nHabitat: Peru, Bolivia, Chili.\nBelakangan, alpaka bahkan bisa ditemukan di Amerika dan Selandia Baru. Tidak seperti unta, alpaka tidak punya punuk. Tubuhnya tertutup bulu fluffy. Karena leher panjang aneh dan wajah menawan, mereka punya popularitas sebagai hewan uglycute.",
+          "note": "Mamalia. Terkait unta.\nBerat Rata-rata: 50-55 kg\nPanjang Rata-rata: Sekitar 2m\nHabitat: Peru, Bolivia, Chili.\nBelakangan, alpaka bahkan bisa ditemukan di Amerika dan Selandia Baru. Tidak seperti unta, alpaka tidak punya punuk. Tubuhnya tertutup bulu halus. Karena leher panjang aneh dan wajah menawan, mereka cukup populer sebagai hewan jelek-imut.",
           "ruby": "Alpaka"
         },{
           "ctgr": "Otaku",
           "name": "Fotografer Amatir",
-          "note": "Biasanya enthusiasts pria yang sering muncul di event venues bawa kamera single-lens mahal. Mereka cenderung gravitasi untuk ambil banyak foto wanita berpakaian minim. Mereka \"amatir\" karena lakukan sebagai hobi bukan profesi.",
+          "note": "Biasanya penggemar pria yang sering muncul di venue acara bawa kamera lensa tunggal mahal. Mereka cenderung memburu banyak foto wanita berpakaian minim. Disebut \"amatir\" karena melakukannya sebagai hobi bukan profesi.",
           "ruby": "Fotografer Amatir"
         },{
           "ctgr": "Internet",
           "name": "Anchor",
-          "note": "Untuk link ke post spesifik di message board, biasanya sebagai reply. Di @channel, ini dilakukan dengan ketik \">>POSTNUMBER\". Kadang, orang engage \"anchor play,\" game tempat poster serahkan keputusan pada siapa pun yang post dengan nomor post indicated, biasanya dipilih 20-30 post sebelumnya. Misalnya, \">>1000 boleh namai anak pertamaku.\"",
+          "note": "Untuk menaut ke postingan tertentu di papan pesan, biasanya sebagai balasan. Di @channel, caranya dengan ketik \">>NOMORPOST\". Kadang, orang main \"anchor play,\" permainan tempat poster menyerahkan keputusan pada siapa pun yang posting dengan nomor ditunjuk, biasanya dipilih 20-30 post sebelumnya. Misalnya, \">>1000 boleh namai anak pertamaku.\"",
           "ruby": "Anchor"
         },{
           "ctgr": "Internet",
           "name": "Anon",
-          "note": "Istilah regularly dipakai untuk refer mereka yang frequent message boards online anonim particular.",
+          "note": "Istilah yang rutin dipakai merujuk mereka yang sering mengunjungi papan pesan online anonim tertentu.",
           "ruby": "Anon"
         },{
           "ctgr": "Internet",
           "name": "Anzai-sensei",
-          "note": "Pelatih dari manga basket terkenal. Di internet, posters kadang express desperate desire dengan quote manga seperti: \"Anzai-sensei, aku ingin ____.\" Quote oft-quoted lain, yang diucapkan Anzai-sensei, adalah: \"Kalau kau menyerah, game over.\"",
+          "note": "Pelatih dari manga basket terkenal. Di internet, poster kadang mengungkapkan keinginan putus asa dengan mengutip manga seperti: \"Anzai-sensei, aku ingin ____.\" Kutipan lain yang sering dikutip, yang diucapkan Anzai-sensei, adalah: \"Kalau kau menyerah, pertandingan berakhir.\"",
           "ruby": "Anzai-sensei"
         },{
           "ctgr": "Lainnya",
           "name": "APL",
-          "note": "Singkatan \"A Programming Language.\" Bahasa pemrograman diperkenalkan 1964.",
+          "note": "Singkatan \"A Programming Language.\" Bahasa pemrograman yang diperkenalkan tahun 1964.",
           "ruby": "APL"
         },{
           "ctgr": "Otaku",
           "name": "Artis",
-          "note": "Orang yang buat art.",
+          "note": "Orang yang membuat gambar.",
           "ruby": "Artis"
         },{
           "ctgr": "Internet",
           "name": "Seni ASCII",
-          "note": "Di message boards internet seperti @channel, ini refer gambar dibuat pakai teks. Berkisar dari emoticon sederhana sampai konstruksi multi-line kompleks. Ada yang pakai tools untuk generate, ada yang craft dengan tangan.",
+          "note": "Di papan pesan internet seperti @channel, ini merujuk gambar yang dibuat pakai teks. Dari emotikon sederhana sampai susunan multi-baris kompleks. Ada yang pakai alat untuk membuatnya, ada yang merangkai dengan tangan.",
           "ruby": "Seni ASCII"
         },{
           "ctgr": "Akihabara",
           "name": "ATF",
-          "note": "Singkatan \"Akihabara Techno Forum.\" Aula meeting di dalam Daibiru. Beberapa universitas dan institusi riset adakan seminar spesial di sini.",
+          "note": "Singkatan \"Akihabara Techno Forum.\" Aula pertemuan di dalam Daibiru. Beberapa universitas dan lembaga riset mengadakan seminar khusus di sini.",
           "ruby": "ATF"
         },{
           "ctgr": "Lainnya",
           "name": "Medan Atraktor",
-          "note": "Klaster Konvergensi Garis Dunia. Interpretasi struktur dunia deterministik yang jadi mainstream tahun 2036, gantikan Interpretasi Banyak-Dunia dan Interpretasi Copenhagen di bidang teori kuantum.\n\nMedan atraktor adalah massa garis dunia yang wakili jalur branching besar sejarah. Medan atraktor hanyalah rentang, dan semua garis dunia dalam rentang medan atraktor tertentu pada akhirnya akan menuju hasil sama.\n\nShift garis dunia di level medan atraktor dikenal Great Divergence. Sebelum tahun 2010, tahun 2000 adalah contoh lain periode Great Divergence.",
+          "note": "Klaster Konvergensi Garis Dunia. Interpretasi struktur dunia deterministik yang jadi arus utama tahun 2036, menggantikan Interpretasi Banyak-Dunia dan Interpretasi Copenhagen di bidang teori kuantum.\n\nMedan atraktor adalah gugusan garis dunia yang mewakili jalur cabang sejarah yang lebih besar. Medan atraktor hanyalah rentang, dan semua garis dunia dalam rentang medan atraktor tertentu pada akhirnya akan menuju hasil sama.\n\nPergeseran garis dunia di level medan atraktor dikenal sebagai Divergensi Besar. Sebelum tahun 2010, tahun 2000 adalah contoh lain periode Divergensi Besar.",
           "ruby": "Medan Atraktor"
         },{
           "ctgr": "Lainnya",
           "name": "Ayamein",
-          "note": "Ayamein Women's Academy. Sekolah swasta untuk gadis di neighborhood Kudanshita Tokyo. Academic powerhouse, Ayamein destinasi populer untuk foreign exchange students.",
+          "note": "Akademi Putri Ayamein. Sekolah swasta untuk gadis di kawasan Kudanshita, Tokyo. Sekolah unggulan, Ayamein tujuan populer bagi siswa pertukaran asing.",
           "ruby": "Ayamein"
         },{
           "ctgr": "Future Gadget",
           "name": "Bamboo Helicam",
-          "note": "Future Gadget No. 2. Kamera CCD dipasang ke mainan helikopter bambu. Kamera attached ke fulcrum helikopter, izinkan rekam aerial footage unpowered. Namun, gambar rotating kecepatan tinggi, jadi kau mungkin pusing kalau terus lihat. Nama berasal dari manga sci-fi \"22 Emon.\"",
+          "note": "Future Gadget No. 2. Kamera CCD yang dipasang ke mainan helikopter bambu. Kamera menempel di titik tumpu helikopter, memungkinkannya rekam gambar udara tanpa mesin. Namun, gambarnya berputar kecepatan tinggi, jadi kau bisa pusing kalau terus melihat. Nama berasal dari manga sci-fi \"22 Emon.\"",
           "ruby": "Bamboo Helicam"
         },{
           "ctgr": "Lainnya",
           "name": "BASIC",
-          "note": "Singkatan \"Beginner's All-purpose Symbolic Instruction Code.\" Bahasa pemrograman pemula frequently dipakai 1970-an.",
+          "note": "Singkatan \"Beginner's All-purpose Symbolic Instruction Code.\" Bahasa pemrograman pemula yang sering dipakai 1970-an.",
           "ruby": "BASIC"
         },{
           "ctgr": "Internet",
           "name": "BBS",
-          "note": "Bulletin Board System. Jenis messageboard online tempat visitors bisa bebas post teks dan baca yang dipost others. Jenis situs ini punya kategorisasi luas, cover spots besar seperti @channel dan juga urusan small-scale seperti personal boards atau private boards dibuat sekolah atau perusahaan.",
+          "note": "Bulletin Board System. Jenis papan pesan online tempat pengunjung bebas memposting teks dan membaca postingan orang lain. Jenis situs ini kategorinya luas, mencakup tempat besar seperti @channel dan juga urusan kecil seperti papan pribadi atau papan milik sekolah/perusahaan.",
           "ruby": "BBS"
         },{
           "ctgr": "Lainnya",
           "name": "Big Sight",
-          "note": "Nickname populer untuk Tokyo International Exhibition Center di Koto, Tokyo. Events besar seperti ComiMa diadakan di sana.",
+          "note": "Julukan populer Tokyo International Exhibition Center di Koto, Tokyo. Acara besar seperti ComiMa diadakan di sana.",
           "ruby": "Big Sight"
         },{
           "ctgr": "Future Gadget",
           "name": "Bit Particle Cannon",
-          "note": "Future Gadget No. 1. Future Gadget very first, mainan ray gun dengan TV remote jammed dalam. Kau bisa ganti channels dengan arahkan ke TV dan pull trigger. Namun, satu-satunya tombol supported adalah Channel +. Tidak ada tombol lain, seperti Volume, usable. Untuk nyalakan TV, kau harus manual flip switch di TV. Namanya referensi anime robot klasik Jepang, \"Mobile Jacket Gunbam\".",
+          "note": "Future Gadget No. 1. Future Gadget paling pertama, pistol mainan dengan remote TV disumpal di dalam. Kau bisa ganti channel dengan mengarahkannya ke TV dan menarik pelatuk. Namun, satu-satunya tombol yang didukung adalah Channel +. Tidak ada tombol lain, seperti Volume, yang bisa dipakai. Untuk nyalakan TV, kau harus manual mencet sakelar di TV. Namanya merujuk anime robot klasik Jepang, \"Mobile Jacket Gunbam\".",
           "ruby": "Bit Particle Cannon"
         },{
           "ctgr": "Akihabara",
           "name": "BladeWorks",
-          "note": "Salah satu dari beberapa toko di Akihabara yang jual replica weapons. Items include pedang periode Sengoku Jepang, pedang Abad Pertengahan Eropa, dan knight armor.",
+          "note": "Salah satu dari beberapa toko di Akihabara yang menjual senjata replika. Barang-barangnya mencakup pedang periode Sengoku Jepang, pedang Abad Pertengahan Eropa, dan zirah kesatria.",
           "ruby": "BladeWorks"
         },{
           "ctgr": "Internet",
           "name": "Blog",
-          "note": "Istilah internet singkatan \"weblog.\" Tempat untuk jot pikiran dan experiences.",
+          "note": "Istilah internet singkatan \"weblog.\" Tempat mencatat pikiran dan pengalaman.",
           "ruby": "Blog"
         },{
           "ctgr": "Otaku",
           "name": "Blood Tune",
-          "note": "Anime TV populer. Berdasarkan manga. 26 episode broadcast tahun lalu. Heroine utama, Seira Orgel, especially populer di antara anime otaku.",
+          "note": "Anime TV populer. Berdasarkan manga. 26 episode tayang tahun lalu. Heroine utama, Seira Orgel, sangat populer di kalangan otaku anime.",
           "ruby": "Blood Tune"
         },{
           "ctgr": "Sains",
           "name": "Ilmu Otak",
-          "note": "Studi ilmiah otak. Bidang ini incorporates biologi, genetika, kedokteran, psikologi, dan electrical engineering.",
+          "note": "Studi ilmiah tentang otak. Bidang ini mencakup biologi, genetika, kedokteran, psikologi, dan teknik elektro.",
           "ruby": "Ilmu Otak"
         },{
           "ctgr": "Lainnya",
           "name": "Cuci Otak",
-          "note": "Forcibly ubah beliefs atau ideologi seseorang lewat violent means. External pressure bisa applied lewat physical methods seperti confinement, direct violence atau use of drugs. Bisa juga applied psychologically lewat verbal abuse atau instilled guilt. Cuci otak dianggap bentuk extreme alteration kepribadian daripada simple mind control.",
+          "note": "Mengubah keyakinan atau ideologi seseorang secara paksa melalui cara-cara kekerasan. Tekanan dari luar bisa diberikan secara fisik seperti pengurungan, kekerasan langsung, atau penggunaan obat-obatan. Bisa juga secara psikologis melalui cacian verbal atau rasa bersalah yang ditanamkan. Cuci otak dianggap bentuk perubahan kepribadian yang lebih ekstrem daripada sekadar pengendalian pikiran.",
           "ruby": "Cuci Otak"
         },{
           "ctgr": "Akihabara",
           "name": "Braun Tube Workshop",
-          "note": "Toko specialty yang deals exclusively di CRT TV. Ditemukan di lantai satu Ohiyama Building dekat Suehirocho. Di very back toko stands rare dan massive 42-inch CRT TV. Manajer toko, Tennouji Yugo, juga owns building sendiri. Jumlah daily customers jarang passes lima, tapi toko somehow managed bertahan landscape Akihabara ever-changing.",
+          "note": "Toko khusus yang hanya menjual TV CRT. Ada di lantai satu Gedung Ohiyama dekat Suehirocho. Di bagian paling belakang toko berdiri TV CRT 42 inci yang langka dan besar. Manajer toko, Tennouji Yugo, juga pemilik gedung itu sendiri. Pelanggan harian jarang lewat lima orang, tapi toko ini entah bagaimana bertahan dari lanskap Akihabara yang terus berubah.",
           "ruby": "Braun Tube Workshop"
         },{
           "ctgr": "Lainnya",
           "name": "Bukuro",
-          "note": "Ikebukuro.",
+          "note": "Maksudnya Ikebukuro.",
           "ruby": "Bukuro"
         },{
           "ctgr": "Lainnya",
           "name": "Efek Kupu-kupu",
-          "note": "Konsep di Teori Chaos, refer bagaimana even smallest initial circumstances bisa snowball jadi large outcomes. Konsep kupu-kupu flap sayapnya di Beijing, hanya untuk result badai di New York.\n\nPer Teori Chaos, bahkan saat sesuatu bisa described dengan very simple equations, sulit buat fully accurate predictions soal results. Ini tidak berarti results random, namun. Ini berarti bahwa selama proses leading ke outcome, smallest changes bisa produce unexpectedly large variations consequence. Teori ini tidak broadly apply ke short-term predictions.",
+          "note": "Konsep dalam Teori Chaos, merujuk bagaimana keadaan awal sekecil apa pun bisa membesar jadi hasil besar. Konsep kupu-kupu mengepakkan sayap di Beijing, lalu berujung badai di New York.\n\nMenurut Teori Chaos, bahkan saat sesuatu bisa dijelaskan dengan persamaan sangat sederhana, sulit membuat prediksi akurat penuh soal hasilnya. Ini bukan berarti hasilnya acak. Ini berarti selama proses menuju hasil, perubahan terkecil bisa menghasilkan variasi tak terduga yang besar. Teori ini tidak berlaku luas untuk prediksi jangka pendek.",
           "ruby": "Efek Kupu-kupu"
         },{
           "ctgr": "Akihabara",
           "name": "Oden Kaleng",
-          "note": "Canned meal, dijual di vending machines. Tiap can berisi hot broth dengan various oden ingredients seperti boiled egg, radish, konjac, beef, dan tofu. Spesialisasi Akihabara populer.",
+          "note": "Makanan kaleng, dijual di mesin penjual otomatis. Tiap kaleng berisi kuah panas dengan berbagai bahan oden seperti telur rebus, lobak, konnyaku, daging sapi, dan tahu. Spesialisasi Akihabara yang populer.",
           "ruby": "Oden Kaleng"
         },{
           "ctgr": "Akihabara",
           "name": "Ramen Kaleng",
-          "note": "Ramen packaged di can seperti drink. Dijual di vending machines. Tidak seperti regular ramen, noodles made of konjac.",
+          "note": "Ramen yang dikemas dalam kaleng seperti minuman. Dijual di mesin penjual otomatis. Berbeda dengan ramen biasa, mienya terbuat dari konnyaku.",
           "ruby": "Ramen Kaleng"
         },{
           "ctgr": "Otaku",
           "name": "Capsule Toy",
-          "note": "Vending machine yang dispenses small toys random. Tak bisa tahu toy sebelum buka capsule.",
+          "note": "Mesin penjual yang mengeluarkan mainan kecil acak. Tak bisa tahu mainannya sebelum buka kapsul.",
           "ruby": "Capsule Toy"
         },{
           "ctgr": "Sains",
           "name": "Jam Cesium",
-          "note": "Jam atom. Ukur waktu pakai resonansi cesium atoms. Dianggap jenis jam paling accurate. Measurements berdasarkan jam cesium telah served sebagai international standard untuk detik sejak 1967.",
+          "note": "Jam atom. Mengukur waktu memakai resonansi atom cesium. Dianggap jenis jam paling akurat. Pengukuran berdasarkan jam cesium menjadi standar internasional detik sejak 1967.",
           "ruby": "Jam Cesium"
         },{
           "ctgr": "Otaku",
           "name": "Chain Combo",
-          "note": "Istilah gaming. Refer series successive chained attacks di fighting games dan genre similar lain. Bisa juga dipakai untuk refer hal general chained bersama quick succession.",
+          "note": "Istilah gim. Merujuk pada rangkaian serangan beruntun dalam gim laga dan genre sejenis. Bisa juga dipakai untuk hal-hal umum yang dirangkai berurutan dengan cepat.",
           "ruby": "Chain Combo"
         },{
           "ctgr": "Lainnya",
           "name": "Teori Chaos",
-          "note": "Teori bahwa bahkan kalau sesuatu bisa expressed dengan simple formula, sulit perfectly predict outcome-nya. Namun, ini tidak berarti result random. Ini berarti bahwa slightest variation di initial conditions bisa cause wildly diverging outcome. Teori ini hanya berlaku untuk long-term predictions.",
+          "note": "Teori bahwa bahkan kalau sesuatu bisa dinyatakan dengan rumus sederhana, sulit memprediksi hasilnya dengan sempurna. Namun, ini bukan berarti hasilnya acak. Ini berarti variasi sekecil apa pun di keadaan awal bisa menyebabkan hasil yang menyimpang liar. Teori ini hanya berlaku untuk prediksi jangka panjang.",
           "ruby": "Teori Chaos"
         },{
           "ctgr": "Internet",
           "name": "Cheat Code",
-          "note": "Istilah dipakai di video games. Cheating awalnya dilakukan dengan modify game data tanpa authorization, sering lewat hacking atau external tools.\n\nKini, banyak games punya built-in cheats yang bisa kau akses mudah dengan preset code. Hidden commands ini masih cheating, meski.",
+          "note": "Istilah di gim video. Nge-cheat awalnya dilakukan dengan mengubah data gim tanpa izin, sering lewat hacking atau alat luar.\n\nKini, banyak gim punya cheat bawaan yang mudah diakses dengan kode tertentu. Perintah tersembunyi ini tetap saja nge-cheat.",
           "ruby": "Cheat Code"
         },{
           "ctgr": "Lainnya",
           "name": "Kucing Cheshire",
-          "note": "Kucing fictional dari \"Alice in Wonderland\" Lewis Carroll.",
+          "note": "Kucing fiktif dari \"Alice in Wonderland\" karya Lewis Carroll.",
           "ruby": "Kucing Cheshire"
         },{
           "ctgr": "Lainnya",
           "name": "Chevy",
-          "note": "Brand otomobil Amerika.",
+          "note": "Merek mobil Amerika.",
           "ruby": "Chevy"
         },{
           "ctgr": "Sains",
           "name": "Dugaan proteksi kronologi",
-          "note": "Di mekanika kuantum, teori, proposed oleh Stephen Hawking, yang states bahwa perjalanan waktu impossible. Tiap attempt untuk travel lewat waktu akan prevented oleh quantum effects. Perjalanan waktu sukses requires infinite \"field energy,\" yang impossible diperoleh. Dengan kata lain, hukum kausalitas—dan by extension, kronologi atau timeline universe—protected oleh mekanika kuantum.",
+          "note": "Dalam mekanika kuantum, teori yang diusulkan Stephen Hawking yang menyatakan perjalanan waktu mustahil. Tiap upaya perjalanan waktu akan dicegah efek kuantum. Perjalanan waktu yang berhasil butuh \"energi medan\" tak hingga, yang mustahil didapat. Dengan kata lain, hukum kausalitas—dan dengan demikian kronologi atau lini masa semesta—dilindungi mekanika kuantum.",
           "ruby": "Dugaan proteksi kronologi"
         },{
           "ctgr": "Chuunibyou",
           "name": "Chuunibyou",
-          "note": "Harfiah, \"eighth-grader syndrome.\" Istilah refer mindset exhibited terutama oleh teenage males. Juga dipakai sebagai derogatory term untuk refer older people yang masih exhibit mindset ini.\nCharacterized oleh affected attitude nihilism atau cynicism, extreme self-centeredness, delusions of power atau superiority, dan consuming fear diperlakukan sebagai anak. Orang exhibiting symptoms ini percaya bahwa mereka \"cool,\" tapi kebanyakan observers temukan mereka pathetic.\nChuunibyou, yang sering abbreviated \"chuuni,\" juga refer fictional tropes yang teenage males sering enjoy, seperti ancient conspiracies, superpowers (especially powers sealed di eye atau arm karakter), Norse mythology, battles untuk fate of multiverse, dll. Konsummate chuunibyou case akan work elements seperti itu ke personal \"lore\"-nya sendiri. Okarin textbook example.",
+          "note": "Secara harfiah, \"sindrom anak kelas delapan.\" Istilah yang merujuk pada pola pikir yang terutama ditunjukkan oleh remaja laki-laki. Juga dipakai sebagai ejekan untuk orang yang lebih tua tapi masih menunjukkan pola pikir seperti ini.\nDitandai dengan sikap sok nihilis atau sinis, sangat egois, delusi punya kekuatan atau merasa lebih hebat, serta ketakutan berlebihan dianggap sebagai anak kecil. Orang yang menunjukkan gejala ini merasa dirinya \"keren,\" tapi kebanyakan orang yang melihat justru merasa kasihan.\nChuunibyou, yang sering disingkat \"chuuni,\" juga merujuk pada kiasan fiksi yang sering disukai remaja laki-laki, seperti konspirasi kuno, kekuatan super (terutama kekuatan yang tersegel di mata atau lengan karakter), mitologi Nordik, pertempuran demi nasib multiverse, dan sebagainya. Kasus chuunibyou sejati akan memasukkan unsur-unsur seperti itu ke dalam \"lore\" pribadinya sendiri. Okarin adalah contoh textbook.",
           "ruby": "Chuunibyou"
         },{
           "ctgr": "Sains",
           "name": "Collider",
-          "note": "Alat yang accelerates charged particles untuk research reaksi yang result saat particles collide. Jenis particle accelerated juga determines nama equipment. Tahun belakangan, kebanyakan high-energy accelerators adalah synchrotrons—ring types.\nRing-type accelerators sangat expensive dibangun, tapi mereka bisa perform experiments paling effective. Alasan ring shape adalah charged particles bisa dikirim lewat electromagnetic field untuk bend trajectory mereka lewat Lorentz force. Synchrotrons terbesar dunia, selain LHC SERN, located di US, UK, dan Jepang.",
+          "note": "Alat yang mempercepat partikel bermuatan untuk meneliti reaksi yang terjadi saat partikel itu bertabrakan. Jenis partikel yang dipercepat juga menentukan nama peralatannya. Tahun-tahun belakangan, kebanyakan akselerator energi tinggi adalah sinkrotron—tipe cincin.\nAkselerator tipe cincin mahal dibangun, tapi bisa melakukan eksperimen paling efektif. Alasan bentuk cincin adalah partikel bermuatan bisa dikirim lewat medan elektromagnetik untuk membelokkan lintasannya lewat gaya Lorentz. Sinkrotron terbesar dunia, selain LHC milik SERN, ada di AS, Inggris, dan Jepang.",
           "ruby": "Collider"
         },{
           "ctgr": "Otaku",
           "name": "ComiMa",
-          "note": "Comic Giga Market. Massive otaku event diadakan twice setahun di Tokyo Big Sight. Tiap ComiMa, ribuan artists gather untuk jual creations mereka, berkisar dari erotic manga berdasarkan popular anime sampai original figures, music, dan games. ComiMa berikutnya akan diadakan 15 Agustus.",
+          "note": "Comic Giga Market. Acara otaku raksasa yang diadakan dua kali setahun di Tokyo Big Sight. Tiap ComiMa, ribuan seniman berkumpul jual karyanya, dari manga erotis berdasarkan anime populer sampai figur, musik, dan gim orisinal. ComiMa berikutnya akan diadakan 15 Agustus.",
           "ruby": "ComiMa"
         },{
           "ctgr": "Chuunibyou",
           "name": "Komite 300",
-          "note": "Unseen Masters. Organisasi rahasia rumored manipulasi dunia behind scenes. Ada yang percaya bahwa various royal families, intelligence agencies, major banking institutions dan secret societies spoken oleh conspiracy theorists semua merely puppets Komite 300. Juga believed bahwa hampir tiap major company, police force, dan research institution under thumb Komite.\n\nSatu teori states bahwa ultimate goal Komite 300 adalah establish New World Order via \"Human Domestication Project.\" Dengan exception elites, populasi dunia akan reduced ke satu miliar, dan remaining satu miliar itu akan enslaved.",
+          "note": "Para Master Tak Terlihat. Organisasi rahasia yang dirumorkan mengendalikan dunia dari balik layar. Ada yang percaya berbagai keluarga kerajaan, badan intelijen, bank-bank besar, dan perkumpulan rahasia ala penganut teori konspirasi semuanya hanyalah boneka Komite 300. Diyakini juga hampir semua perusahaan besar, kepolisian, dan lembaga riset ada di bawah telunjuk Komite.\n\nSatu teori menyatakan tujuan akhir Komite 300 adalah menegakkan Tatanan Dunia Baru lewat \"Proyek Penjinakan Manusia.\" Kecuali para elite, populasi dunia akan dikurangi jadi satu miliar, dan satu miliar sisanya akan diperbudak.",
           "ruby": "Komite 300"
         },{
           "ctgr": "Sains",
           "name": "Konservasi Massa",
-          "note": "Hukum fisika stating bahwa saat chemical changes seperti combustion atau thermal decomposition terjadi, total mass substances involved remains unchanged. Sebagai example, saat hydrogen dan oxygen react untuk form water, combined mass hydrogen dan oxygen sama dengan mass water produced.",
+          "note": "Hukum fisika yang menyatakan bahwa saat perubahan kimia seperti pembakaran atau penguraian panas terjadi, massa total zat yang terlibat tetap sama. Contohnya, saat hidrogen dan oksigen bereaksi membentuk air, gabungan massa hidrogen dan oksigen sama dengan massa air yang dihasilkan.",
           "ruby": "Konservasi Massa"
         },{
           "ctgr": "Lainnya",
           "name": "Teori Konspirasi",
-          "note": "Belief bahwa powerful individuals atau groups secretly manipulate dunia dari shadows unseen.\n\nMereka yang invest di conspiracy theories sering believe bahwa mereka salah satu lucky few yang noticed hidden truth dunia. Mereka cenderung double down pada beliefs mereka bahkan saat others sebut absurd atau claim bahwa mereka buying ke far-fetched ideas.",
+          "note": "Keyakinan bahwa individu atau kelompok kuat diam-diam mengendalikan dunia dari bayangan tak terlihat.\n\nMereka yang percaya teori konspirasi sering merasa salah satu dari sedikit yang beruntung menyadari kebenaran tersembunyi dunia. Mereka cenderung ngotot pada keyakinannya bahkan saat orang lain bilang absurd atau menuduh mereka termakan ide mengada-ada.",
           "ruby": "Teori Konspirasi"
         },{
           "ctgr": "Internet",
           "name": "Cool X bro",
-          "note": "Net slang. Textbook phrasing adalah \"cool story bro,\" suggesting incredulous disbelief dan general dismissal pada sesuatu yang baru didengar.",
+          "note": "Slang internet. Frasa bakunya \"cool story bro,\" menandakan tidak percaya dan pengabaian umum atas sesuatu yang baru didengar.",
           "ruby": "Cool X bro"
         },{
           "ctgr": "Sains",
           "name": "Interpretasi Copenhagen",
-          "note": "Pendekatan well-known untuk Schrodinger's Cat thought experiment. Di interpretasi ini, sebelum box dibuka, kucing exists sebagai combination dua wave functions, satu yang \"alive\" dan satu yang \"dead.\" Seketika box dibuka dan kucing observed, wave function collapses ke either condition. Kalau kucing alive upon opening box, wave function collapses jadi \"alive cat.\" Conversely, kalau kucing dead, wave function collapses jadi \"dead cat.\"\nPendekatan kuantum lain untuk experiment ini adalah many-worlds interpretation. Dalam kasus ini, observer yang temukan kucing alive dan observer yang temukan kucing dead exist di dua separate universes yang diverge saat box dibuka. Interpretasi Copenhagen kini dominant theory.",
+          "note": "Pendekatan terkenal untuk eksperimen pikiran Kucing Schrodinger. Dalam interpretasi ini, sebelum kotak dibuka, kucing ada sebagai gabungan dua fungsi gelombang, satu yang \"hidup\" dan satu yang \"mati.\" Seketika kotak dibuka dan kucing diamati, fungsi gelombang runtuh ke salah satu keadaan. Kalau kucing hidup saat kotak dibuka, fungsi gelombang runtuh jadi \"kucing hidup.\" Sebaliknya, kalau kucing mati, fungsi gelombang runtuh jadi \"kucing mati.\"\nPendekatan kuantum lain untuk eksperimen ini adalah interpretasi banyak-dunia. Dalam hal ini, pengamat yang menemukan kucing hidup dan pengamat yang menemukan kucing mati ada di dua semesta terpisah yang bercabang saat kotak dibuka. Interpretasi Copenhagen kini teori yang dominan.",
           "ruby": "Interpretasi Copenhagen"
         },{
           "ctgr": "Internet",
           "name": "Copy and Paste",
-          "note": "Copying dan pasting sesuatu. Duplikasi data ke tempat lain.",
+          "note": "Menyalin dan menempel sesuatu. Gandakan data ke tempat lain.",
           "ruby": "Copy and Paste"
         },{
           "ctgr": "Otaku",
           "name": "Cosplay",
-          "note": "Singkatan \"costume play.\" Untuk dress up kostum, paling sering sebagai fictional character. Orang yang cosplay disebut \"cosplayers,\" yang bisa shortened jadi \"layers.\" Banyak cosplayers buat kostum sendiri.",
+          "note": "Singkatan \"costume play.\" Berdandan kostum, paling sering sebagai karakter fiktif. Orang yang cosplay disebut \"cosplayer,\" yang bisa disingkat jadi \"layer.\" Banyak cosplayer buat kostum sendiri.",
           "ruby": "Cosplay"
         },{
           "ctgr": "Future Gadget",
           "name": "Could This Be Ora Ora!?",
-          "note": "Future Gadget No. 3. Lie detector berdasarkan thumb perspiration. Meski mungkin lebih appropriate sebut sweat detector, harus diakui pretty clever invention. Namanya referensi manga klasik, \"JuJu's Bizarre Adventure\".",
+          "note": "Future Gadget No. 3. Detektor kebohongan berdasarkan keringat jempol. Meski lebih tepat disebut detektor keringat, harus diakui ini penemuan yang cukup cerdik. Namanya merujuk manga klasik, \"JuJu's Bizarre Adventure\".",
           "ruby": "Could This Be Ora Ora!?"
         },{
           "ctgr": "Internet",
           "name": "Cracking",
-          "note": "Dalam computer terminology, actions including illegal access ke networked systems dan data tampering. Sering confused dengan hacking, tapi hacking awalnya berarti constructive study software. Cracking, on the other hand, adalah malicious act.",
+          "note": "Dalam istilah komputer, tindakan yang mencakup akses ilegal ke sistem yang terhubung jaringan dan perusakan data. Sering tertukar dengan hacking, padahal hacking pada awalnya berarti studi konstruktif tentang perangkat lunak. Sedangkan cracking adalah tindakan jahat.",
           "ruby": "Cracking"
         },{
           "ctgr": "Lainnya",
           "name": "Penyakit Creutzfeldt-Jakob",
-          "note": "Nama lain bovine spongiform encephalopathy (BSE, commonly known mad cow disease), tapi hanya dipakai dalam kasus human infection. Early symptoms include memory loss, abnormal movements, personality changes, dementia, dan muscle stiffness. Severe cases, pasien mungkin waste away 1-2 tahun sebelum dying respiratory paralysis atau other complications.",
+          "note": "Nama lain bovine spongiform encephalopathy (BSE, umumnya dikenal sebagai penyakit sapi gila), tapi hanya dipakai untuk kasus infeksi pada manusia. Gejala awalnya mencakup hilang ingatan, gerakan abnormal, perubahan kepribadian, demensia, dan kekakuan otot. Pada kasus berat, pasien bisa merana 1-2 tahun sebelum meninggal karena kelumpuhan pernapasan atau komplikasi lain.",
           "ruby": "Penyakit Creutzfeldt-Jakob"
         },{
           "ctgr": "Lainnya",
           "name": "CRT",
-          "note": "Nama lain cathode ray tube (CRT). Nama ini dipakai more commonly di Jerman dan Jepang. Berasal dari nama inventor cathode ray tube, Karl Ferdinand Braun.",
+          "note": "Nama lain tabung sinar katoda (CRT). Nama ini lebih umum dipakai di Jerman dan Jepang. Berasal dari nama penemu tabung sinar katoda, Karl Ferdinand Braun.",
           "ruby": "CRT"
         },{
           "ctgr": "Lainnya",
           "name": "Monitor CRT",
-          "note": "Monitor televisi yang pakai Braun tubes, atau cathode ray tube (CRTs). Alat disebut electron gun fires electrons ke phosphor screen, cause emit light dan display images.\nDi Jepang, dari start television broadcasting 1950-an sampai widespread adoption flat-panel televisions 2000-an, istilah \"TV\" generally refer ke CRT TV. Karena nature CRTs, televisi ini require significant depth, dan screens punya 4:3 aspect ratio.",
+          "note": "Monitor televisi yang memakai tabung Braun, atau tabung sinar katoda (CRT). Alat bernama electron gun menembakkan elektron ke layar fosfor, membuatnya memancarkan cahaya dan menampilkan gambar.\nDi Jepang, sejak awal siaran televisi pada 1950-an sampai meluasnya televisi layar datar pada 2000-an, istilah \"TV\" umumnya merujuk pada TV CRT. Karena sifat CRT, televisi ini butuh bodi yang dalam, dan layarnya berasio aspek 4:3.",
           "ruby": "Monitor CRT"
         },{
           "ctgr": "Lainnya",
           "name": "Crunchy-kun",
-          "note": "Brand popsicle. Populer seluruh Jepang. Selain standard soda flavor, over fifty varieties dijual, including cola, grape, dan limited promotional flavors. \"Win\" mungkin written di satu part stick. Winning stick earns free popsicle. Chances menang rumored sekitar 2\\%.",
+          "note": "Merek es loli. Populer di seluruh Jepang. Selain rasa soda standar, dijual lebih dari lima puluh varian, termasuk kola, anggur, dan rasa promosi terbatas. Tulisan \"Win\" mungkin tercetak di sebagian stik. Stik menang dapat satu es gratis. Peluang menang dirumorkan sekitar 2%.",
           "ruby": "Crunchy-kun"
         },{
           "ctgr": "Internet",
           "name": "Cut and Paste",
-          "note": "Cutting dan pasting sesuatu. Pindahkan data ke tempat lain.",
+          "note": "Memotong dan menempel sesuatu. Pindahkan data ke tempat lain.",
           "ruby": "Cut and Paste"
         },{
           "ctgr": "Future Gadget",
           "name": "Cyalume Saber",
-          "note": "Future Gadget No. 6. Red chemical glowstick dengan handle attached, izinkan grip seperti sword. Made possible bukan hanya dengan Future Gadget Laboratory hardware, tapi juga dengan chemical knowledge! Inspired oleh \"Spark Wars,\" series epic sci-fi movies.",
+          "note": "Future Gadget No. 6. Stik cahaya kimia merah bergagang, bisa digenggam seperti pedang. Terwujud bukan hanya dengan perangkat keras Laboratorium Future Gadget, tapi juga dengan ilmu kimia! Terinspirasi \"Spark Wars,\" seri film sci-fi epik.",
           "ruby": "Cyalume Saber"
         },{
           "ctgr": "Akihabara",
           "name": "Daibiru",
-          "note": "Skyscraper dengan offices dan commerce center yang opened alongside UPX tahun 2003. Connected ke UPX oleh overpass.",
+          "note": "Gedung pencakar langit berisi perkantoran dan pusat niaga yang dibuka bersama UPX tahun 2003. Terhubung ke UPX lewat jembatan layang.",
           "ruby": "Daibiru"
         },{
           "ctgr": "Otaku",
           "name": "Death Flag",
-          "note": "Istilah metafiction. Saat karakter triggers death flag, mereka telah said atau done sesuatu yang foreshadows kematian mereka. Cara umum untuk trigger death flag adalah make promise di eve climactic battle. Misalnya, \"Saat war ini over, aku akan married.\"",
+          "note": "Istilah metafiksi. Saat karakter memicu death flag, mereka telah bilang atau lakukan sesuatu yang menandakan kematiannya. Cara umum memicu death flag adalah berjanji di malam sebelum pertempuran klimaks. Misalnya, \"Saat perang ini selesai, aku akan menikah.\"",
           "ruby": "Death Flag"
         },{
           "ctgr": "Lainnya",
           "name": "Deco Phone",
-          "note": "Decorated cell phone, populer terutama young women. Casing ponsel typically adorned dengan objects seperti rhinestones atau Swarovski crystals, ciptakan tightly packed texture effect.",
+          "note": "Ponsel hias, terutama populer di kalangan wanita muda. Casing ponselnya biasanya dihiasi benda-benda seperti rhinestones atau kristal Swarovski, menciptakan efek tekstur yang padat rapat.",
           "ruby": "Deco Phone"
         },{
           "ctgr": "Lainnya",
           "name": "Decoding",
-          "note": "Restore compressed atau encrypted data ke initial state.",
+          "note": "Mengembalikan data terkompresi atau terenkripsi ke keadaan awal.",
           "ruby": "Decoding"
         },{
           "ctgr": "Lainnya",
           "name": "Deja Vu",
-          "note": "Feeling telah experienced sesuatu sebelumnya despite tidak actually experienced. Rasanya seperti recall genuine past experience, as opposed imagined experience atau dream. Namun, unable recall kapan dan di mana experience itu occurred, yang results intense feeling strangeness.\nCause deja vu belum determined. Satu teori adalah physiological phenomenon caused oleh temporary desynchronization fungsi \"recollection\" dan \"storage\" memory. Cause theorized spasms di parahippocampal gyrus otak, yang in charge spatial reasoning dan sensation \"familiarity.\"",
+          "note": "Perasaan pernah mengalami sesuatu padahal sebenarnya belum. Rasanya seperti mengingat pengalaman masa lalu yang nyata, bukan pengalaman khayalan atau mimpi. Namun, tak bisa mengingat kapan dan di mana pengalaman itu terjadi, sehingga timbul perasaan aneh yang kuat.\nPenyebab deja vu belum diketahui. Satu teori menyebutnya fenomena fisiologis akibat ketidakselarasan sementara fungsi \"ingatan\" dan \"penyimpanan\" memori. Penyebabnya diduga kejang di girus parahippocampal otak, yang mengatur penalaran ruang dan sensasi \"familiaritas.\"",
           "ruby": "Deja Vu"
         },{
           "ctgr": "Internet",
           "name": "Berandalan",
-          "note": "Bukan tool paling sharp di shed. Slacker tanpa many prospects.",
+          "note": "Bukan orang paling pintar. Pemalas tanpa banyak prospek.",
           "ruby": "Berandalan"
         },{
           "ctgr": "Lainnya",
           "name": "Determinisme",
-          "note": "Aliran filsafat yang states bahwa tiap event predetermined oleh previous events. Masa lalu determined kini; kini determines masa depan. Meski kami mungkin think bahwa kami acting of our own free will, in truth, kami hanya following predetermined path.\nMereka yang subscribe determinism sering cite thought experiment Laplace's Demon: untuk \"an intellect which at a certain moment would know all forces that set nature in motion, and all positions of all items of which nature is composed (...) nothing would be uncertain and the future just like the past would be present before its eyes.\"—Pierre Simon Laplace",
+          "note": "Aliran filsafat yang menyatakan bahwa setiap peristiwa sudah ditentukan oleh peristiwa-peristiwa sebelumnya. Masa lalu menentukan masa kini; masa kini menentukan masa depan. Meski kita mungkin merasa bertindak atas kehendak bebas, sebenarnya kita hanya mengikuti jalan yang sudah ditentukan.\nPenganut determinisme sering mengutip eksperimen pikiran Iblis Laplace: bagi \"kecerdasan yang pada suatu saat mengetahui semua kekuatan yang menggerakkan alam, dan semua posisi benda-benda penyusun alam (...) tak ada yang tak pasti dan masa depan sama seperti masa lalu akan terbentang di depan matanya.\"—Pierre Simon Laplace",
           "ruby": "Determinisme"
         },{
           "ctgr": "Lainnya",
           "name": "D-Mail",
-          "note": "Bentuk abbreviated DeLorean Mail. Text message yang bisa dikirim ke masa lalu. Dikirim via cell phone lewat PhoneWave (name subject to change), AKA Future Gadget No. 8.\n\nSender bisa specify time of destination 1-hour increments, tapi tak bisa dikirim back ke immediate past. Hanya 36 bytes + alpha bisa transmitted single message.",
+          "note": "Bentuk singkat DeLorean Mail. Pesan teks yang bisa dikirim ke masa lalu. Dikirim lewat ponsel melalui PhoneWave (nama bisa berubah), alias Future Gadget No. 8.\n\nPengirim bisa menentukan waktu tujuannya dalam kelipatan 1 jam, tapi tidak bisa dikirim ke masa lalu yang terlalu dekat. Hanya 36 bytes + alpha yang bisa ditransmisikan dalam satu pesan.",
           "ruby": "D-Mail"
         },{
           "ctgr": "Lainnya",
           "name": "Doc P",
-          "note": "Carbonated drink dengan distinct flavor.",
+          "note": "Minuman bersoda dengan rasa khas.",
           "ruby": "Doc P"
         },{
           "ctgr": "Internet",
           "name": "Jangan lihat aku",
-          "note": "Di internet, unwritten rule untuk bilang ini kapan pun kau lihat image seseorang atau sesuatu looking ke kamera.",
+          "note": "Di internet, ada aturan tak tertulis untuk bilang ini kapan pun kau lihat gambar seseorang atau sesuatu yang menatap kamera.",
           "ruby": "Jangan lihat aku"
         },{
           "ctgr": "Lainnya",
           "name": "DOS",
-          "note": "Singkatan \"Disk Operating System.\" Early 16-bit operating system.",
+          "note": "Singkatan \"Disk Operating System.\" Sistem operasi 16-bit lawas.",
           "ruby": "DOS"
         },{
           "ctgr": "Lainnya",
           "name": "Arti Ganda",
-          "note": "Single word atau phrase yang bisa mean dua different things sekaligus.",
+          "note": "Satu kata atau frasa yang bisa berarti dua hal berbeda sekaligus.",
           "ruby": "Arti Ganda"
         },{
           "ctgr": "Internet",
           "name": "Dr. Excite",
-          "note": "Situs machine translation.",
+          "note": "Situs terjemahan mesin.",
           "ruby": "Dr. Excite"
         },{
           "ctgr": "Internet",
           "name": "Durr",
-          "note": "Malformed version \"duh,\" dipakai untuk mock intelligence. Net slang.",
+          "note": "Versi salah tulis \"duh,\" dipakai mengejek kecerdasan. Slang internet.",
           "ruby": "Durr"
         },{
           "ctgr": "Lainnya",
           "name": "Ledakan Debu",
-          "note": "Ledakan caused oleh sufficient concentration combustible dust di udara, ignited oleh spark atau similar. Type dan level dust, dan oxygen concentration, akan influence apa ledakan actually happens.",
+          "note": "Ledakan yang disebabkan oleh konsentrasi debu mudah terbakar yang cukup di udara, tersulut percikan api atau sejenisnya. Jenis dan kadar debu, serta konsentrasi oksigen, akan memengaruhi apakah ledakan benar-benar terjadi.",
           "ruby": "Ledakan Debu"
         },{
           "ctgr": "Lainnya",
           "name": "Dinamit",
-          "note": "Nitroglycerine-based explosive invented oleh Alfred Nobel tahun 1866.",
+          "note": "Bahan peledak berbahan nitrogliserin yang ditemukan Alfred Nobel tahun 1866.",
           "ruby": "Dinamit"
         },{
           "ctgr": "Lainnya",
           "name": "Distopia",
-          "note": "Opposite utopia. Misalnya, completely regulated society tempat most people denied privacy dan freedom.",
+          "note": "Kebalikan utopia. Misalnya, masyarakat yang sepenuhnya diatur tempat kebanyakan orang kehilangan privasi dan kebebasan.",
           "ruby": "Distopia"
         },{
           "ctgr": "Chuunibyou",
           "name": "ECHELON",
-          "note": "Menurut conspiracy theorists, Echelon adalah advanced signals interception system based di Amerika Serikat dan operated oleh National Security Agency (NSA). Namun, otoritas Amerika tak pernah publicly admitted existence Echelon, dan no proof bahwa exists pernah found. Participating countries allegedly include Inggris, Kanada, Australia, dan Selandia Baru, tapi bukan Prancis.\nSebagai ally Amerika Serikat, Jepang bisa allow construction domestic Echelon stations exchange access ke intercepted data. Antenna array \"elephant cage\" located di Misawa Air Base di Aomori, Jepang rumored salah satu station. Stations ini said intercept, collect, dan analyze wide range signals, including private cellphone transmissions.",
+          "note": "Menurut penganut teori konspirasi, Echelon adalah sistem penyadapan sinyal canggih yang berbasis di Amerika Serikat dan dioperasikan National Security Agency (NSA). Namun, otoritas Amerika tak pernah mengakui keberadaan Echelon secara terbuka, dan tak pernah ditemukan bukti bahwa ia ada. Negara pesertanya konon mencakup Inggris, Kanada, Australia, dan Selandia Baru, tapi bukan Prancis.\nSebagai sekutu Amerika Serikat, Jepang boleh mengizinkan pembangunan stasiun Echelon dalam negeri sebagai ganti akses ke data sadapan. Deretan antena \"kandang gajah\" di Pangkalan Udara Misawa, Aomori, Jepang, dirumorkan salah satunya. Stasiun-stasiun ini konon menyadap, mengumpulkan, dan menganalisis berbagai sinyal, termasuk transmisi ponsel pribadi.",
           "ruby": "ECHELON"
         },{
           "ctgr": "Lainnya",
           "name": "Edison",
-          "note": "Thomas Edison. American inventor known ciptakan phonograph, incandescent light bulb, dan kinetograph, primitive motion picture camera. Dia buat several advancements di field electrical engineering.",
+          "note": "Thomas Edison. Penemu Amerika yang dikenal menciptakan fonograf, bola lampu pijar, dan kinetograf, kamera film primitif. Dia membuat beberapa kemajuan di bidang teknik elektro.",
           "ruby": "Edison"
         },{
           "ctgr": "Lainnya",
           "name": "Editorial Company",
-          "note": "Jenis company yang plans dan does editorial work on commission dari larger publishers.",
+          "note": "Jenis perusahaan yang merencanakan dan mengerjakan editorial atas pesanan penerbit besar.",
           "ruby": "Editorial Company"
         },{
           "ctgr": "Sains",
           "name": "Einstein",
-          "note": "Albert Einstein. German-born Jew, sering referred bapak modern physics dan known banyak foundational achievements, including teori special relativity dan teori general relativity. Dia awarded Nobel Prize in Physics tahun 1921. Lahir 1879, mati 1955.",
+          "note": "Albert Einstein. Yahudi kelahiran Jerman, sering disebut bapak fisika modern dan dikenal banyak pencapaian dasar, termasuk teori relativitas khusus dan teori relativitas umum. Dia menerima Nobel Fisika tahun 1921. Lahir 1879, wafat 1955.",
           "ruby": "Einstein"
         },{
           "ctgr": "Lainnya",
           "name": "Elaborative Rehearsal",
-          "note": "Di psikologi, act transferring short-term memory ke long-term memory. Dilakukan dengan attaching meaning ke matter to be remembered, atau dengan relating matter ke some other familiar memory.",
+          "note": "Dalam psikologi, tindakan memindahkan ingatan jangka pendek ke ingatan jangka panjang. Caranya dengan memberi makna pada hal yang ingin diingat, atau dengan mengaitkannya dengan ingatan lain yang sudah dikenal.",
           "ruby": "Elaborative Rehearsal"
         },{
           "ctgr": "Chuunibyou",
           "name": "Eldhrimnir",
-          "note": "Di Norse mythology, cauldron dipakai untuk cook untuk gods.",
+          "note": "Dalam mitologi Nordik, kuali untuk memasak bagi para dewa.",
           "ruby": "Eldhrimnir"
         },{
           "ctgr": "Sains",
           "name": "Medan Listrik",
-          "note": "Area tempat electric force punya influence. Misalnya, rubbing balloon dan taruh close ke kepalamu buat rambutmu rise karena influence resulting static electric field.",
+          "note": "Wilayah tempat gaya listrik berpengaruh. Misalnya, menggosok balon lalu mendekatkannya ke kepala membuat rambutmu berdiri karena pengaruh medan listrik statis yang dihasilkan.",
           "ruby": "Medan Listrik"
         },{
           "ctgr": "Sains",
           "name": "Partikel Elementer",
-          "note": "Smallest unit matter. Namun, definisi apa constitutes elementary particle unclear. Certain elementary particles punya corresponding anti-particle dengan opposite charge.",
+          "note": "Satuan materi terkecil. Namun, definisi tentang apa yang disebut partikel elementer tidak jelas. Partikel elementer tertentu punya antipartikel padanan dengan muatan berlawanan.",
           "ruby": "Partikel Elementer"
         },{
           "ctgr": "Lainnya",
           "name": "Gelombang EM",
-          "note": "Waves yang exhibit properties baik electricity dan magnetism, first formally postulated oleh Maxwell tahun 1864. Oscillations electric field dan magnetic field cause mereka mutually propagate satu sama lain, resulting wave yang radiates lewat surroundings. Ini kenapa disebut electromagnetic radiation. EM waves dibagi frequency jadi radio waves, infrared light, visible light, ultraviolet light, X-rays, dan gamma rays.",
+          "note": "Gelombang yang menunjukkan sifat listrik sekaligus magnet, pertama dirumuskan Maxwell tahun 1864. Osilasi medan listrik dan medan magnet membuat keduanya saling merambatkan, menghasilkan gelombang yang memancar lewat sekitarnya. Makanya disebut radiasi elektromagnetik. Gelombang EM dibagi menurut frekuensi jadi gelombang radio, cahaya inframerah, cahaya tampak, cahaya ultraviolet, sinar-X, dan sinar gamma.",
           "ruby": "Gelombang EM"
         },{
           "ctgr": "Lainnya",
           "name": "Europol",
-          "note": "European Police Office. Established 1999, special agency yang cooperates dengan dan supports various international police forces untuk combat heavy crime di Eropa.",
+          "note": "Kantor Polisi Eropa. Didirikan tahun 1999, lembaga khusus yang bekerja sama dan mendukung berbagai kepolisian internasional untuk memerangi kejahatan berat di Eropa.",
           "ruby": "Europol"
         },{
           "ctgr": "Sains",
           "name": "Event Horizon",
-          "note": "Juga dikenal Schwarzschild surface. Di black hole, ada point beyond yang even light tak bisa lagi escape immense gravity black hole. Boundary ini disebut event horizon. Karena light dan other electromagnetic waves responsible conveying information, nihil yang occurs dalam event horizon bisa observed dari luar. Center black hole black karena no light bisa escape darinya.",
+          "note": "Juga dikenal permukaan Schwarzschild. Di black hole, ada titik yang lewat situ bahkan cahaya tak bisa lagi lolos dari gravitasi dahsyat black hole. Batas ini disebut horizon peristiwa. Karena cahaya dan gelombang elektromagnetik lain bertugas membawa informasi, tak ada yang terjadi dalam horizon peristiwa bisa diamati dari luar. Pusat black hole hitam karena tak ada cahaya bisa lolos darinya.",
           "ruby": "Event Horizon"
         },{
           "ctgr": "Lainnya",
           "name": "Exa-",
-          "note": "10^18. Urutan increasing magnitude, SI prefixes: Kilo, Mega, Giga, Tera, Peta, dan Exa. 1 exabyte = 1 quintillion bytes.",
+          "note": "10^18. Urutan besaran menaik, awalan SI: Kilo, Mega, Giga, Tera, Peta, dan Exa. 1 exabyte = 1 kuintiliun byte.",
           "ruby": "Exa-"
         },{
           "ctgr": "Lainnya",
           "name": "Eksposisi",
-          "note": "Stiff dan awkward dialogue yang karakter tidak akan naturally bilang, biasanya inserted oleh author untuk explain konsep pada reader.",
+          "note": "Dialog kaku dan canggung yang tak akan diucapkan karakter secara alami, biasanya disisipkan penulis untuk menjelaskan konsep pada pembaca.",
           "ruby": "Eksposisi"
         },{
           "ctgr": "Sains",
           "name": "Ferdinand Braun",
-          "note": "Karl Ferdinand Braun adalah German physicist yang received Nobel Prize in Physics tahun 1909. Dia invented cathode ray tube, kenapa some places refer mereka sebagai Braun tubes. Lahir 1850 dan mati 1918.",
+          "note": "Karl Ferdinand Braun adalah fisikawan Jerman penerima Nobel Fisika tahun 1909. Dia menemukan tabung sinar katoda, makanya di sebagian tempat disebut tabung Braun. Lahir 1850 dan wafat 1918.",
           "ruby": "Ferdinand Braun"
         },{
           "ctgr": "Internet",
           "name": "Festival",
-          "note": "Saat @channel erupts lively activity, dianggap \"festival\" oleh users di sana. By extension, istilah juga dipakai describe similar energized situations di real life juga. Jangan confused dengan actual, traditional festivals.",
+          "note": "Saat sebuah @channel meledak menjadi ramai, para pengguna di sana menyebutnya \"festival.\" Secara perluasan, istilah ini juga dipakai untuk menggambarkan situasi semarak serupa di kehidupan nyata. Jangan tertukar dengan festival tradisional yang sebenarnya.",
           "ruby": "Festival"
         },{
           "ctgr": "Internet",
           "name": "Jawaban Final",
-          "note": "Abbreviated FA di Jepang. Dipakai di pertanyaan \"Is that your final answer?\" Internet slang. Originates dari popular quiz show dengan contestants yang ingin jadi millionaires.",
+          "note": "Disingkat FA dalam bahasa Jepang. Dipakai dalam pertanyaan \"Apakah itu jawaban final Anda?\" Slang internet. Berasal dari acara kuis populer dengan kontestan yang ingin menjadi jutawan.",
           "ruby": "Jawaban Final"
         },{
           "ctgr": "Otaku",
           "name": "Flag",
-          "note": "Istilah metafiction. Refer common methods foreshadowing particular events. \"Death flag,\" misalnya, suggests bahwa karakter akan die shortly. Death flags dan romance flags paling frequent.",
+          "note": "Istilah metafiksi. Merujuk pada metode umum memberi firasat peristiwa tertentu. \"Death flag,\" misalnya, menandakan karakter akan segera mati. Death flag dan romance flag adalah yang paling sering.",
           "ruby": "Flag"
         },{
           "ctgr": "Internet",
           "name": "For real",
-          "note": "Slang. Dipakai untuk assert genuineness.",
+          "note": "Slang. Dipakai menegaskan keaslian.",
           "ruby": "For real"
         },{
           "ctgr": "Internet",
           "name": "For the win",
-          "note": "Net slang. Juga written FTW, exclamation excitement dan joy.",
+          "note": "Slang internet. Juga ditulis FTW, seruan kegembiraan dan kegirangan.",
           "ruby": "For the win"
         },{
           "ctgr": "Lainnya",
           "name": "Struktur Fraktal",
-          "note": "Di geometri, struktur yang demonstrates self-similarity. Smallest portion fractal structure akan appear similar ke whole. Common examples fractal structures adalah snowflakes dan coastlines.",
+          "note": "Dalam geometri, struktur yang menunjukkan kesamaan diri. Bagian terkecil dari struktur fraktal akan tampak mirip dengan keseluruhannya. Contoh umum struktur fraktal adalah kepingan salju dan garis pantai.",
           "ruby": "Struktur Fraktal"
         },{
           "ctgr": "Lainnya",
           "name": "Majelis Nasional Prancis",
-          "note": "Chamber parlemen Prancis. Prancis employs bicameral system, made up National Assembly dan French Senate.",
+          "note": "Kamar parlemen Prancis. Prancis memakai sistem dua kamar, terdiri dari Majelis Nasional dan Senat Prancis.",
           "ruby": "Majelis Nasional Prancis"
         },{
           "ctgr": "Internet",
           "name": "FrePara",
-          "note": "Popular social media website. Designed untuk facilitate easy communication antara users.",
+          "note": "Situs media sosial populer. Dirancang agar penggunanya mudah berkomunikasi.",
           "ruby": "FrePara"
         },{
           "ctgr": "Lainnya",
           "name": "Lobus Frontal",
-          "note": "Region cerebrum di front otak. Governs thought, intent, behavior, motion, dan general creativity.\n\nFrontal lobe dibagi specific segments seperti prefrontal cortex, motor cortex, dan premotor cortex.",
+          "note": "Wilayah cerebrum di bagian depan otak. Mengatur pikiran, niat, perilaku, gerak, dan kreativitas umum.\n\nLobus frontal terbagi menjadi segmen-segmen khusus seperti korteks prefrontal, korteks motorik, dan korteks premotorik.",
           "ruby": "Lobus Frontal"
         },{
           "ctgr": "Otaku",
           "name": "Fujoshi",
-          "note": "Istilah untuk female otaku dengan particular interest di \"yaoi,\" atau works fiksi yang depict homosexual relationships antara pria. Tidak apply ke female otaku general.",
+          "note": "Istilah untuk otaku wanita dengan minat khusus pada \"yaoi,\" karya fiksi yang menggambarkan hubungan homoseksual antar pria. Tidak berlaku untuk otaku wanita secara umum.",
           "ruby": "Fujoshi"
         },{
           "ctgr": "Chuunibyou",
           "name": "Laboratorium Future Gadget",
-          "note": "\"Laboratory\" yang more silly invention club run oleh students. Founder-nya, Okabe Rintaro, claims itu base untuk ambition-nya rewrite ruling structure dunia.\n\nStarting di Akihabara Station, head down Chuo-dori dan take left ke Kuramaebashi-dori di Suehirocho station. Sebelum next traffic light, kau akan spy narrow alley. Down alley stands run-down Ohiyama building. Laboratory di lantai dua.",
+          "note": "\"Laboratorium\" yang lebih mirip klub penemuan konyol yang dijalankan mahasiswa. Pendirinya, Okabe Rintaro, mengklaimnya sebagai markas bagi ambisinya menulis ulang struktur penguasa dunia.\n\nMulai dari Stasiun Akihabara, susuri Chuo-dori lalu belok kiri ke arah Kuramaebashi-dori di Stasiun Suehirocho. Sebelum lampu lalu lintas berikutnya, kau akan melihat gang sempit. Di ujung gang itu berdiri gedung Ohiyama yang kumuh. Laboratoriumnya di lantai dua.",
           "ruby": "Laboratorium Future Gadget"
         },{
           "ctgr": "Internet",
           "name": "Gaiz",
-          "note": "Net slang. Intentional misspelling \"guys.\"",
+          "note": "Slang internet. Salah tulis \"guys\" yang disengaja.",
           "ruby": "Gaiz"
         },{
           "ctgr": "Internet",
           "name": "Get real",
-          "note": "Often dipakai negatively, phrase yang reinforces disbelief pada orang yang directed.",
+          "note": "Sering dipakai secara negatif, frasa yang menegaskan ketidakpercayaan pada orang yang dituju.",
           "ruby": "Get real"
         },{
           "ctgr": "Future Gadget",
           "name": "Ghost in the Ball",
-          "note": "Future Gadget No. 7.\nGadget created dengan arrange twelve 6-inch CRT monitors dalam sphere. Small C-MOS cameras installed di gaps antara monitors, tiap connected ke monitor opposite side sphere. Attempt practical optical camouflage ini greatest masterpiece di antara completed Future Gadgets, tapi sheer size buat sulit store.\nNamanya derived dari sci-fi manga \"Ghost in the Husk,\" yang punya anime adaptation.",
+          "note": "Future Gadget No. 7.\nGawai yang dibuat dengan menyusun dua belas monitor CRT 6 inci membentuk bola. Kamera C-MOS kecil dipasang di celah antar monitor, masing-masing terhubung ke monitor di sisi berlawanan bola. Upaya kamuflase optik praktis ini adalah mahakarya terbesar di antara Future Gadget yang jadi, tapi ukurannya membuat penyimpanan sulit.\nNamanya berasal dari manga sci-fi \"Ghost in the Husk,\" yang sudah diadaptasi jadi anime.",
           "ruby": "Ghost in the Ball"
         },{
           "ctgr": "Internet",
           "name": "Google it",
-          "note": "Internet slang. Untuk 'google' sesuatu adalah look up online.",
+          "note": "Slang internet. Menge-'google' sesuatu artinya mencarinya online.",
           "ruby": "Google it"
         },{
           "ctgr": "Lainnya",
           "name": "Gordon Freeman",
-          "note": "Protagonis Half-Time series video games dari Spigot Software. Whacks things dengan trusty crowbar-nya a whole lot.",
+          "note": "Protagonis seri gim video Half-Time dari Spigot Software. Sering menghantam benda dengan linggis kesayangannya.",
           "ruby": "Gordon Freeman"
         },{
           "ctgr": "Otaku",
           "name": "Gunbam",
-          "note": "Formally known \"Mobile Jacket Gunbam\". Seminal work robot anime. First series aired late 1970s, dan telah banyak sequels dan spinoffs sejak.",
+          "note": "Resminya dikenal sebagai \"Mobile Jacket Gunbam\". Karya penting anime robot. Seri pertamanya tayang pada akhir 1970-an, dan telah banyak sekuel dan spinoff sejak itu.",
           "ruby": "Gunbam"
         },{
           "ctgr": "Lainnya",
           "name": "Kuil Hariti",
-          "note": "Kishimojindo Temple di Zoshigaya.",
+          "note": "Kuil Kishimojin di Zoshigaya.",
           "ruby": "Kuil Hariti"
         },{
           "ctgr": "Internet",
           "name": "Hawt",
-          "note": "Hot. Biasanya dipakai refer attractive woman.",
+          "note": "Hot (seksi). Biasanya dipakai merujuk wanita menarik.",
           "ruby": "Hawt"
         },{
           "ctgr": "Lainnya",
           "name": "Heidegger",
-          "note": "Martin Heidegger. German philosopher. Most notable work-nya \"Being and Time.\"",
+          "note": "Martin Heidegger. Filsuf Jerman. Karya terkenalnya adalah \"Being and Time.\"",
           "ruby": "Heidegger"
         },{
           "ctgr": "Lainnya",
           "name": "Hippocampus",
-          "note": "Major part otak. Hippocampus governs memory dan spatial navigation.",
+          "note": "Bagian utama otak. Hippocampus mengatur ingatan dan navigasi ruang.",
           "ruby": "Hippocampus"
         },{
           "ctgr": "Lainnya",
           "name": "Hippocampus CA3",
-          "note": "Hippocampus dibagi tiga histological sections: CA1, CA2, dan CA3. CA refer nama given ke hippocampus oleh anatomist Garengeot tahun 1742—\"cornu Ammonis,\" the horn of Amun.",
+          "note": "Hippocampus terbagi menjadi tiga bagian histologis: CA1, CA2, dan CA3. CA merujuk pada nama yang diberikan ke hippocampus oleh anatom Garengeot pada 1742—\"cornu Ammonis,\" tanduk Amun.",
           "ruby": "Hippocampus CA3"
         },{
           "ctgr": "Internet",
           "name": "HTML",
-          "note": "\"HyperText Markup Language.\" Bahasa dipakai untuk design web page documents. Allows embedding images, videos, sound, dan hyperlinks.",
+          "note": "\"HyperText Markup Language.\" Bahasa untuk merancang dokumen halaman web. Bisa menyisipkan gambar, video, suara, dan hyperlink.",
           "ruby": "HTML"
         },{
           "ctgr": "Internet",
           "name": "HTTP",
-          "note": "\"HyperText Transfer Protocol.\" Communication protocol dipakai untuk transfer data seperti HTML antara browser dan web server.",
+          "note": "\"HyperText Transfer Protocol.\" Protokol komunikasi untuk transfer data seperti HTML antara peramban dan server web.",
           "ruby": "HTTP"
         },{
           "ctgr": "Sains",
           "name": "Hund's Rule",
-          "note": "Rule governing placement electrons atom. Orbitals same energy tiap filled dengan satu electron same spin sebelum ada filled dengan second. Juga known Hund's rule of maximum multiplicity.",
+          "note": "Aturan yang mengatur penempatan elektron-elektron atom. Orbital-orbital berenergi sama masing-masing diisi satu elektron dengan spin sama sebelum ada yang diisi elektron kedua. Juga dikenal sebagai aturan multiplisitas maksimum Hund.",
           "ruby": "Hund's Rule"
         },{
           "ctgr": "Lainnya",
           "name": "IBN",
-          "note": "American computer company. Bukan hanya develop dan sell hardware dan software, mereka juga offer service dan consultation ke enterprises. Tahun belakangan, mereka buat latter main focus. IBN invented floppy disks dan hard disk drives.",
+          "note": "Perusahaan komputer Amerika. Bukan hanya mengembangkan dan menjual perangkat keras dan lunak, mereka juga menawarkan jasa dan konsultasi ke perusahaan. Tahun-tahun belakangan, mereka menjadikan yang terakhir itu fokus utama. IBN menemukan disket dan hard disk.",
           "ruby": "IBN"
         },{
           "ctgr": "Lainnya",
           "name": "IBN 5100",
-          "note": "Portable computer pertama released oleh IBN tahun 1975. Sporting design yang integrated monitor dan keyboard singular unit, masih weighed close 25kg, jadi istilah \"portable\" bit stretch.\n2000-an, John Titor revealed existence undocumented, specialized computer language yang hanya bisa dipakai di komputer ini. Former IBN developers waktu itu confirmed true.",
+          "note": "Komputer portabel pertama yang dirilis IBN pada 1975. Dengan desain yang menyatukan monitor dan kibor dalam satu unit, bobotnya masih mendekati 25 kg, jadi sebutan \"portabel\" agak dipaksakan.\nPada 2000-an, John Titor mengungkap keberadaan bahasa komputer khusus tak terdokumentasi yang hanya bisa dipakai di komputer ini. Mantan pengembang IBN waktu itu memastikan hal itu benar.",
           "ruby": "IBN 5100"
         },{
           "ctgr": "Internet",
           "name": "In Japanese plz",
-          "note": "Teasing phrase dipakai di online message boards untuk beritahu incomprehensible poster untuk \"please post comprehensibly.\"",
+          "note": "Frasa ejekan di papan pesan online untuk menyuruh poster yang tak dimengerti agar \"posting yang bisa dimengerti.\"",
           "ruby": "In Japanese plz"
         },{
           "ctgr": "Otaku",
           "name": "Interactive Game",
-          "note": "Jenis game yang includes interactivity dalam system, progressing cara yang feels seolah player engaging dialogue dengan character(s) dalam.",
+          "note": "Jenis gim yang menyertakan interaktivitas dalam sistemnya, berjalan dengan cara yang terasa seolah pemain berdialog dengan karakter di dalamnya.",
           "ruby": "Interactive Game"
         },{
           "ctgr": "Sains",
           "name": "Isaac Newton",
-          "note": "17th-century English scientist. Dia buat great number achievements, including discovery gravity. Dia juga developed various methods calculus.",
+          "note": "Ilmuwan Inggris abad ke-17. Dia menorehkan banyak pencapaian, termasuk penemuan gravitasi. Dia juga mengembangkan berbagai metode kalkulus.",
           "ruby": "Isaac Newton"
         },{
           "ctgr": "Lainnya",
           "name": "Janet's Law",
-          "note": "Perspective passage of time proposed oleh psychologist Janet. Entah kenapa, as one ages, time seems pass more quickly. Misalnya, satu tahun adalah one seventh hidup 7-year-old, tapi hanya one seventieth hidup 70-year-old. By reasoning ini, subjective length time inversely proportional ke age.",
+          "note": "Pandangan tentang berjalannya waktu yang dikemukakan psikolog Janet. Entah kenapa, semakin bertambah usia, waktu terasa berjalan semakin cepat. Misalnya, satu tahun adalah seper tujuh dari hidup anak usia 7 tahun, tapi hanya seper tujuh puluh dari hidup orang usia 70 tahun. Dengan penalaran ini, panjang waktu yang dirasakan berbanding terbalik dengan usia.",
           "ruby": "Janet's Law"
         },{
           "ctgr": "Otaku",
           "name": "Japanimation",
-          "note": "Portmanteau Japan dan Animation. Dipakai overseas untuk refer Japanese anime, dan bahkan dipakai dalam Jepang extent 1990-an, tapi ultimately fell disuse globally saat istilah \"anime\" jadi popular worldwide.",
+          "note": "Gabungan Japan dan Animation. Dipakai di luar negeri untuk anime Jepang, bahkan sempat dipakai di Jepang tahun 1990-an, tapi akhirnya tak dipakai lagi secara global saat istilah \"anime\" populer di seluruh dunia.",
           "ruby": "Japanimation"
         },{
           "ctgr": "Lainnya",
           "name": "John Titor",
-          "note": "Self-proclaimed time traveler dari 2036 yang appeared di American internet message board November 2000. Internet went uproar, flooding board dengan questions dan debate. Titor posted pictures mesin waktunya dan control manual, dan diagrams illustrating time machine mechanics.\nDia juga disclosed info near-future events, time travel physics, history intervention, multiverse, timelines, dan worldlines. Lalu, empat bulan setelah appearance-nya, dia tinggalkan comment bilang \"I will be leaving this worldline shortly and this will be my final post\" dan disappeared.",
+          "note": "Penjelajah waktu yang mengaku berasal dari tahun 2036 dan muncul di papan pesan internet Amerika pada November 2000. Internet pun gempar, papan pesan dibanjiri pertanyaan dan perdebatan. Titor mengunggah foto mesin waktunya dan buku manualnya, serta diagram yang menjelaskan cara kerja mesin waktu.\nDia juga mengungkap informasi tentang peristiwa-peristiwa dekat di masa depan, fisika perjalanan waktu, intervensi sejarah, multiverse, lini masa, dan garis dunia. Lalu, empat bulan setelah kemunculannya, dia meninggalkan komentar \"Aku akan segera meninggalkan garis dunia ini dan ini akan menjadi posting terakhirku\" lalu menghilang.",
           "ruby": "John Titor"
         },{
           "ctgr": "Internet",
@@ -2074,52 +2074,52 @@
         },{
           "ctgr": "Akihabara",
           "name": "Kanda Myojin",
-          "note": "Kuil west Akihabara, overlooking moe town. Ini Edo guardian shrine, Okuninushi (AKA Daikoku-sama) dan Taira no Masakado. Sekitar ten-minute walk dari Akihabara Station dan roughly lima menit dari Future Gadget Lab.",
+          "note": "Kuil di sebelah barat Akihabara, menghadap ke kota moe. Ini kuil penjaga Edo, Okuninushi (alias Daikoku-sama) dan Taira no Masakado. Sekitar sepuluh menit jalan kaki dari Stasiun Akihabara dan kira-kira lima menit dari Laboratorium Future Gadget.",
           "ruby": "Kanda Myojin"
         },{
           "ctgr": "Lainnya",
           "name": "Kebab",
-          "note": "Popular Turkish food. Dalam kasus ini refer döner kebab. Thin slices meat shaved dari large rotating hunk, lalu served wrapped flatbread alongside vegetables.",
+          "note": "Makanan Turki yang populer. Dalam hal ini maksudnya döner kebab. Irisan tipis daging disayat dari bongkahan besar yang berputar, lalu disajikan dibungkus roti pipih bersama sayuran.",
           "ruby": "Kebab"
         },{
           "ctgr": "Sains",
           "name": "Kerr Black Hole",
-          "note": "Jenis black hole yang kini hanya exists theoretical predictions. Defining trait-nya rotating singularity di center. Rotation causes singularity take ring-shaped form.",
+          "note": "Jenis black hole yang saat ini hanya ada dalam prediksi teoretis. Ciri khasnya adalah singularitas berputar di pusatnya. Putaran itu membuat singularitas berbentuk cincin.",
           "ruby": "Kerr Black Hole"
         },{
           "ctgr": "Lainnya",
           "name": "King of Terror",
-          "note": "16th-century astrologer Nostradamus buat prediction. \"In the seventh month of 1999, great King of Terror akan descend dari sky.\" Banyak interpreted ini sebagai prediction kehancuran mankind, dan caught on di Jepang 1990-an. Various TV shows featured segments soal itu.\n\nNihil happened, tahun 2000 datang tanpa incident, dan boom faded away.",
+          "note": "Peramal abad ke-16 Nostradamus membuat ramalan. \"Pada bulan ketujuh tahun 1999, Raja Kengerian yang agung akan turun dari langit.\" Banyak yang menafsirkannya sebagai ramalan kehancuran umat manusia, dan ramalan ini populer di Jepang pada 1990-an. Berbagai acara TV menayangkan segmen tentang hal itu.\n\nTidak terjadi apa-apa, tahun 2000 datang tanpa insiden, dan demam ramalan itu pun mereda.",
           "ruby": "King of Terror"
         },{
           "ctgr": "Otaku",
           "name": "Kirari-chan",
-          "note": "Heroine \"RaiNet Kakeru.\" Full name Nishimura Kirari. Smart dan athletic girl kelas 5. Cute dan good personality. Basically perfect girl. Passionate soal fashion. Hates mushrooms.",
+          "note": "Heroine \"RaiNet Kakeru.\" Nama lengkapnya Nishimura Kirari. Anak kelas 5 yang pintar dan atletis. Imut dan berkepribadian baik. Pokoknya gadis sempurna. Gila fashion. Benci jamur.",
           "ruby": "Kirari-chan"
         },{
           "ctgr": "Lainnya",
           "name": "LA",
-          "note": "Los Angeles. Kota di west coast Amerika.",
+          "note": "Los Angeles. Kota di pantai barat Amerika.",
           "ruby": "LA"
         },{
           "ctgr": "Chuunibyou",
           "name": "Lab",
-          "note": "Stylish, shortened term untuk Future Gadget Laboratory.",
+          "note": "Sebutan gaya dan ringkas untuk Laboratorium Future Gadget.",
           "ruby": "Lab"
         },{
           "ctgr": "Chuunibyou",
           "name": "Lab Mem",
-          "note": "Short \"Laboratory Member.\" Designation refer official member Future Gadget Lab. Begitu seseorang jadi Lab Mem, hence permitted freely use lab. Tiap Lab Mem assigned nomor matching order joined.",
+          "note": "Singkatan \"Laboratory Member.\" Sebutan untuk anggota resmi Laboratorium Future Gadget. Begitu seseorang menjadi Lab Mem, ia pun boleh bebas memakai lab. Tiap Lab Mem diberi nomor sesuai urutan bergabung.",
           "ruby": "Lab Mem"
         },{
           "ctgr": "Chuunibyou",
           "name": "Laegjarn's Chest",
-          "note": "Di Norse mythology, gigantic chest, protected oleh 9 locks, yang contains cursed sword, Laevateinn.",
+          "note": "Dalam mitologi Nordik, peti raksasa berantai 9 gembok yang berisi pedang terkutuk Laevateinn.",
           "ruby": "Laegjarn's Chest"
         },{
           "ctgr": "Internet",
           "name": "LARP",
-          "note": "Awalnya dipakai refer Live Action Roleplay, tempat seseorang plays karakter di real life untuk leisure. Istilah evolved online sampai LARPing refer seseorang pretending jadi seseorang atau sesuatu online untuk fulfill ends sendiri.",
+          "note": "Awalnya dipakai merujuk Live Action Roleplay, tempat seseorang memerankan karakter di dunia nyata untuk bersenang-senang. Istilah berevolusi online sampai LARPing merujuk orang yang berpura-pura jadi seseorang atau sesuatu online demi tujuannya sendiri.",
           "ruby": "LARP"
         },{
           "ctgr": "Otaku",
@@ -2129,782 +2129,782 @@
         },{
           "ctgr": "Lainnya",
           "name": "Legit",
-          "note": "Slang. Dipakai untuk emphasis atau suggesting sesuatu serious.",
+          "note": "Slang. Dipakai untuk penekanan atau menandakan sesuatu serius.",
           "ruby": "Legit"
         },{
           "ctgr": "Otaku",
           "name": "Light Novel",
-          "note": "Illustrated novels targeted terutama teenage dan young adult males. Cover artwork sering depicts cute girls. Meski light novels bisa deal hampir subject matter apa pun, tahun belakangan trend ke stories soal teenage boys meeting cute girls dan winding up extraordinary situations.",
+          "note": "Novel bergambar yang menyasar terutama remaja dan dewasa muda pria. Artwork sampul sering menggambarkan gadis imut. Meski light novel bisa bahas hampir subjek apa pun, tahun-tahun belakangan trennya ke cerita soal bocah remaja bertemu gadis imut lalu terjebak situasi luar biasa.",
           "ruby": "Light Novel"
         },{
           "ctgr": "Lainnya",
           "name": "Lobotomi",
-          "note": "Surgical brain treatment untuk mental disorders. Small hole dibuat di skull, dan frontal lobe severed dengan long scalpel. Ada cases teknik ini cured mental disorders, cukup untuk earn inventor Nobel prize. Namun, teknik juga caused serious side effects including loss of humanity. 1970-an, banyak countries banned proses.",
+          "note": "Perawatan otak bedah untuk gangguan mental. Lubang kecil dibuat di tengkorak, dan lobus frontal diputus dengan skalpel panjang. Ada kasus teknik ini menyembuhkan gangguan mental, sampai membuat penemunya dapat Nobel. Namun, teknik ini juga menimbulkan efek samping berat termasuk hilangnya kemanusiaan. Tahun 1970-an, banyak negara melarang proses ini.",
           "ruby": "Lobotomi"
         },{
           "ctgr": "Internet",
           "name": "lol",
-          "note": "Net slang. Shorthand \"laugh out loud,\" dipakai variety situations ironic atau sincere.",
+          "note": "Slang internet. Singkatan \"laugh out loud,\" dipakai dalam berbagai situasi baik ironis maupun tulus.",
           "ruby": "lol"
         },{
           "ctgr": "Internet",
           "name": "lolcow",
-          "note": "Di forums seperti @channel, lolcow istilah dipakai refer individual yang bisa \"milked for laughs\" dengan either documenting behavior mereka atau egging on actions mereka.",
+          "note": "Di forum seperti @channel, lolcow adalah istilah untuk individu yang bisa \"diperah tawanya\" entah dengan mendokumentasikan perilakunya atau dengan mengompori tindakannya.",
           "ruby": "lolcow"
         },{
           "ctgr": "Lainnya",
           "name": "LOTO SIX",
-          "note": "Lotere tempat kau select enam numbers 01 sampai 43. Kalau chosen numbers tiketmu match winning numbers announced weekly, kau menang.\n\nKalau tidak ada winners, prize money rolls over minggu berikutnya. Karena itu, jackpot value varies.",
+          "note": "Lotere tempat kau memilih enam angka dari 01 sampai 43. Kalau angka di tiketmu cocok dengan angka pemenang yang diumumkan mingguan, kau menang.\n\nKalau tidak ada pemenang, hadiahnya bergulir ke minggu berikutnya. Karena itu, nilai jackpot berubah-ubah.",
           "ruby": "LOTO SIX"
         },{
           "ctgr": "Otaku",
           "name": "Louise-chan",
-          "note": "Heroine utama anime \"The Familiar of Ten.\" Tsundere. Voice actress-nya Queen of Tsunderes, Sugimiya Rie (nicknamed Sugyuu).",
+          "note": "Heroine utama anime \"The Familiar of Ten.\" Seorang tsundere. Pengisi suaranya adalah Ratu Tsundere, Sugimiya Rie (akrab dipanggil Sugyuu).",
           "ruby": "Louise-chan"
         },{
           "ctgr": "Akihabara",
           "name": "Low Angler",
-          "note": "Cameramen yang photograph female cosplayers dan idols dari low angle. Bisa found tempat cosplayers congregate, seperti ComiMa atau pedestrian heaven Akihabara.",
+          "note": "Tukang foto yang memotret cosplayer dan idol wanita dari sudut rendah. Bisa ditemukan di tempat cosplayer berkumpul, seperti ComiMa atau surga pejalan kaki Akihabara.",
           "ruby": "Low Angler"
         },{
           "ctgr": "Lainnya",
           "name": "Magnetron",
-          "note": "Jenis vacuum tube. Dipakai di microwave ovens dan radar. Produces strong microwaves.",
+          "note": "Jenis tabung vakum. Dipakai di oven microwave dan radar. Menghasilkan gelombang mikro kuat.",
           "ruby": "Magnetron"
         },{
           "ctgr": "Otaku",
           "name": "Maid Cafe",
-          "note": "Jenis cafe tempat waitresses pakai maid uniforms, biasanya French Maid style. Mereka biasanya panggil customers \"Master.\" Patrons bisa talk ke waitresses dan play games dengan mereka, tapi ultimately maid cafes adalah restaurants, bukan bordellos.",
+          "note": "Jenis kafe tempat pelayannya memakai seragam maid, biasanya gaya French Maid. Mereka biasa memanggil pelanggannya \"Master.\" Pengunjung bisa mengobrol dan main gim dengan pelayan, tapi pada dasarnya maid cafe adalah restoran, bukan rumah bordil.",
           "ruby": "Maid Cafe"
         },{
           "ctgr": "Internet",
           "name": "Mainstream Woman",
-          "note": "Derogatory term dipakai otaku describe women yang subscribe way of thinking incomprehensible ke pria. Wanita seperti itu supposedly influenced \"mainstream\" culture promoted women's magazines. Ada claim bahwa phrase ini dipakai pria justify lack of success dengan women.",
+          "note": "Istilah merendahkan yang dipakai otaku untuk menggambarkan wanita dengan cara pikir yang tidak bisa dipahami pria. Wanita seperti itu konon dipengaruhi budaya \"mainstream\" yang dipromosikan majalah-majalah wanita. Ada yang bilang istilah ini dipakai pria untuk membenarkan kegagalan mereka dalam urusan wanita.",
           "ruby": "Mainstream Woman"
         },{
           "ctgr": "Otaku",
           "name": "Make it moe",
-          "note": "Proses moe anthropomorphization. Animals, objects, nations, elements, atau bahkan abstract concepts dan phenomena bisa rendered cute characters. Kalau exists, bisa cute.",
+          "note": "Proses antropomorfisasi moe. Hewan, benda, negara, unsur, bahkan konsep dan fenomena abstrak bisa digambarkan sebagai karakter imut. Kalau ada, bisa dibuat imut.",
           "ruby": "Make it moe"
         },{
           "ctgr": "Akihabara",
           "name": "Jembatan Manseibashi",
-          "note": "Jembatan spanning Kanda River. Located southern end electric town Akihabara.\n\nFirst Manseibashi Bridge stood lokasi beda dari kini dan awalnya called Yorozuyobashi. Setelah construction new Manseibashi lokasi kini, original bridge renamed Moto-Manseibashi sampai eventually dismantled 1906.\n\nCurrent, arched Manseibashi selesai 1930, following reconstruction setelah Great Kanto Earthquake.",
+          "note": "Jembatan melintasi Sungai Kanda. Terletak di ujung selatan kota listrik Akihabara.\n\nJembatan Manseibashi pertama berdiri di lokasi berbeda dari kini dan awalnya disebut Yorozuyobashi. Setelah Manseibashi baru dibangun di lokasi kini, jembatan aslinya diganti nama jadi Moto-Manseibashi sampai akhirnya dibongkar tahun 1906.\n\nManseibashi kini yang melengkung selesai tahun 1930, setelah rekonstruksi pasca Gempa Besar Kanto.",
           "ruby": "Jembatan Manseibashi"
         },{
           "ctgr": "Lainnya",
           "name": "Martial Arts",
-          "note": "Istilah awalnya translated ke Inggris dari istilah Jepang \"bugei.\" Widely dipakai refer combat techniques dari east. Di Japanese fiction, karena misunderstanding, istilah sering dipakai refer special U.S. military fighting style designed take out terrorists atau enemy combatants.",
+          "note": "Istilah yang awalnya diterjemahkan ke Inggris dari istilah Jepang \"bugei.\" Umum dipakai merujuk teknik tempur dari timur. Dalam fiksi Jepang, karena salah paham, istilah ini sering dipakai merujuk gaya tarung khusus militer AS yang dirancang melumpuhkan teroris atau kombatan musuh.",
           "ruby": "Martial Arts"
         },{
           "ctgr": "Lainnya",
           "name": "Media Scrum",
-          "note": "Selama news stories high public interest, reporters kadang latch ke persons of interest, bombarding mereka questions, prying lives mereka, dan bahkan camping luar houses mereka. Activities ini serious invasion privacy dan bisa inflict mental dan emotional stress pada subject.",
+          "note": "Saat berita yang sangat menarik perhatian publik, reporter kadang menempel pada orang yang jadi sorotan, memberondong mereka dengan pertanyaan, mengorek hidup mereka, bahkan berkemah di luar rumah mereka. Kegiatan ini pelanggaran privasi berat dan bisa menimbulkan stres mental dan emosional pada subjeknya.",
           "ruby": "Media Scrum"
         },{
           "ctgr": "Lainnya",
           "name": "Menger Sponge",
-          "note": "Example fractal structure. Ambil cube dan lakukan:\n1. Untuk tiap side cube, cut square hole di center dengan 1/9 area face. Tiap side kini punya eight squares.\n2. Untuk tiap eight squares ini, cut new hole dengan 1/9 area square.\n3. Repeat infinite times. Hasil sponge-like structure yang surface area approaches infinity saat volume approaches zero.",
+          "note": "Contoh struktur fraktal. Ambil kubus dan lakukan:\n1. Untuk tiap sisi kubus, lubangi bujur sangkar di tengah seluas 1/9 luas sisinya. Tiap sisi kini punya delapan bujur sangkar.\n2. Untuk tiap delapan bujur sangkar ini, lubangi lubang baru seluas 1/9 luas bujur sangkarnya.\n3. Ulangi tak hingga kali. Hasilnya struktur seperti spons yang luas permukaannya mendekati tak hingga saat volumenya mendekati nol.",
           "ruby": "Menger Sponge"
         },{
           "ctgr": "Internet",
           "name": "MewTube",
-          "note": "Popular video sharing website.",
+          "note": "Situs berbagi video yang populer.",
           "ruby": "MewTube"
         },{
           "ctgr": "Lainnya",
           "name": "MI6",
-          "note": "Di Inggris, government organization responsible foreign intelligence operations. MI6 stands Military Intelligence, Section 6. Namun, formal name Secret Intelligence Service (SIS).",
+          "note": "Di Inggris, organisasi pemerintah yang bertanggung jawab atas operasi intelijen luar negeri. MI6 adalah singkatan Military Intelligence, Section 6. Namun, nama resminya adalah Secret Intelligence Service (SIS).",
           "ruby": "MI6"
         },{
           "ctgr": "Lainnya",
           "name": "Microwave Oven",
-          "note": "Cooking appliance yang heats food dengan bombarding microwaves. Awalnya called Radarange. Microwave invented saat radar technician accidentally discovered bahwa electromagnetic waves bisa warm food. Sesudahnya, research continued, dan consumer appliance version launched di Amerika tahun 1947.\nIt emits electromagnetic waves frequency 2.45Ghz. Ini special frequency known ISM Band, yang juga dipakai wireless LAN devices. Consumer grade output sekitar 500-1000 watts, dan commercial grade output sekitar 1500-2000 watts.",
+          "note": "Peralatan masak yang memanaskan makanan dengan menembakkannya dengan gelombang mikro. Awalnya disebut Radarange. Microwave ditemukan saat seorang teknisi radar tanpa sengaja menemukan bahwa gelombang elektromagnetik bisa menghangatkan makanan. Setelah itu penelitian berlanjut, dan versi peralatan rumah tangganya diluncurkan di Amerika pada 1947.\nAlat ini memancarkan gelombang elektromagnetik pada frekuensi 2,45 GHz. Ini frekuensi khusus yang dikenal sebagai ISM Band, yang juga dipakai perangkat LAN nirkabel. Output kelas konsumer sekitar 500-1000 watt, dan kelas komersial sekitar 1500-2000 watt.",
           "ruby": "Microwave Oven"
         },{
           "ctgr": "Otaku",
           "name": "Miko Miko Overdrive",
-          "note": "Magical girl anime dengan lima miko girls sebagai protagonists. Target audience adolescent girls, tapi banyak men twenties suka juga, for some inexplicable reason.",
+          "note": "Anime gadis penyihir dengan lima gadis miko sebagai tokoh utama. Target penontonnya gadis remaja, tapi banyak pria dua puluhan yang juga suka, entah kenapa.",
           "ruby": "Miko Miko Overdrive"
         },{
           "ctgr": "Internet",
           "name": "Mindorz",
-          "note": "Most widely-used operating system di dunia.",
+          "note": "Sistem operasi paling banyak dipakai di dunia.",
           "ruby": "Mindorz"
         },{
           "ctgr": "Otaku",
           "name": "Minmei Shobou",
-          "note": "Fictional publishing house dari certain manga. Di manga ini, Minmei Shobou publishes books on (fictional) martial arts. Di internet, \"quoting\" Minmei Shobou adalah cara untuk jokingly buat statements seem factual.",
+          "note": "Penerbit fiktif dari sebuah manga tertentu. Di manga itu, Minmei Shobou menerbitkan buku-buku tentang bela diri (fiktif). Di internet, \"mengutip\" Minmei Shobou adalah cara bergurau agar pernyataan terkesan faktual.",
           "ruby": "Minmei Shobou"
         },{
           "ctgr": "Chuunibyou",
           "name": "Mistilteinn",
-          "note": "Di Norse mythology, legendary sword born dari sprig mistletoe. Menurut prophecy, sword ini akan slay undying god Baldr, thus beginning final war of gods, Ragnarok.",
+          "note": "Dalam mitologi Nordik, pedang legendaris yang lahir dari setangkai mistletoe. Menurut ramalan, pedang ini akan membunuh dewa abadi Baldr, sehingga memulai perang terakhir para dewa, Ragnarok.",
           "ruby": "Mistilteinn"
         },{
           "ctgr": "Future Gadget",
           "name": "Moad Snake",
-          "note": "Future Gadget No. 4. Instant super-humidifier. Pakai electric heating coils untuk quickly boil large volume water. Ini generates cukup steam untuk fill room 12 square meters, meski hanya bisa operated continuously beberapa detik. Tampak seperti claymore land mine, yang appeals ke military otaku. Namanya referensi stealth action game, \"Metal Moa Solid: Rising.\"",
+          "note": "Future Gadget No. 4. Pelembap super instan. Memakai kumparan pemanas listrik untuk cepat mendidihkan banyak air. Menghasilkan cukup uap untuk memenuhi ruangan 12 meter persegi, meski hanya bisa dinyalakan terus-menerus beberapa detik. Tampak seperti ranjau claymore, yang memikat otaku militer. Namanya merujuk gim siluman, \"Metal Moa Solid: Rising.\"",
           "ruby": "Moad Snake"
         },{
           "ctgr": "Internet",
           "name": "Moar",
-          "note": "Misspelling \"more.\" Sering dipakai saat demanding additional details.",
+          "note": "Salah tulis \"more.\" Sering dipakai sambil menuntut penjelasan tambahan.",
           "ruby": "Moar"
         },{
           "ctgr": "Lainnya",
           "name": "Strip Möbius",
-          "note": "Loop formed dengan twisting end strip 180 degrees lalu joining ke other end. Menciptakan one-sided surface tanpa distinction front dan back. First discovered oleh German mathematician August Ferdinand Möbius.",
+          "note": "Lingkaran yang dibentuk dengan memuntir ujung pita 180 derajat lalu menyambungkannya ke ujung satunya. Menciptakan permukaan satu sisi tanpa beda depan dan belakang. Pertama ditemukan oleh matematikawan Jerman August Ferdinand Möbius.",
           "ruby": "Strip Möbius"
         },{
           "ctgr": "Lainnya",
           "name": "Motel",
-          "note": "Portmanteau motor dan hotel. Founded di Amerika Serikat, bentuk hotel designed untuk people traveling dengan car. Typically located sepanjang suburban highways dan cenderung punya parking lots dan several one-story buildings.",
+          "note": "Gabungan motor dan hotel. Berasal di Amerika Serikat, bentuk hotel yang dirancang untuk orang bepergian dengan mobil. Biasanya terletak di sepanjang jalan raya pinggiran dan cenderung punya lahan parkir dan beberapa gedung satu lantai.",
           "ruby": "Motel"
         },{
           "ctgr": "Lainnya",
           "name": "ms",
-          "note": "Millisecond. Satu ms equal 0.001 detik.",
+          "note": "Milidetik. Satu ms sama dengan 0,001 detik.",
           "ruby": "ms"
         },{
           "ctgr": "Sains",
           "name": "Naked Singularity",
-          "note": "Singularity biasanya concealed oleh event horizon, yang renders observation impossible. Naked singularity adalah singularity yang event horizon-nya removed. Bisa therefore observed dan even traveled through. Existence naked singularities purely theoretical.",
+          "note": "Singularitas biasanya tersembunyi di balik horizon peristiwa, yang membuat pengamatan mustahil. Singularitas telanjang adalah singularitas yang horizon peristiwanya tersingkap. Karena itu bisa diamati bahkan dilalui. Keberadaan singularitas telanjang murni teoretis.",
           "ruby": "Naked Singularity"
         },{
           "ctgr": "Internet",
           "name": "Namefriend",
-          "note": "Seseorang yang posts di anonymous boards seperti @channel, tapi pakai name untuk stand out. Few people actually pakai handles atau names di boards ini, dan mereka sering looked dengan scorn atau derision. Dipakai ironically. Original term tidak pakai 'friend.'",
+          "note": "Orang yang posting di papan anonim seperti @channel, tapi memakai nama agar menonjol. Sedikit yang benar-benar memakai handle atau nama di papan ini, dan mereka sering dipandang dengan hinaan. Dipakai secara ironis. Istilah aslinya tidak memakai 'friend.'",
           "ruby": "Namefriend"
         },{
           "ctgr": "Lainnya",
           "name": "NASA",
-          "note": "NASA (National Aeronautics and Space Administration) adalah American government agency responsible nation's space exploration programs.",
+          "note": "NASA (National Aeronautics and Space Administration) adalah lembaga pemerintah Amerika yang bertanggung jawab atas program penjelajahan luar angkasa negara itu.",
           "ruby": "NASA"
         },{
           "ctgr": "Sains",
           "name": "Impuls Saraf",
-          "note": "Electrical impulses yang move lewat nerve cells living being. Enable transmission information lewat tissues.",
+          "note": "Impuls listrik yang bergerak lewat sel-sel saraf makhluk hidup. Memungkinkan pengiriman informasi lewat jaringan tubuh.",
           "ruby": "Impuls Saraf"
         },{
           "ctgr": "Lainnya",
           "name": "Neuron",
-          "note": "Specialized cell untuk information processing, juga known brain cell. Nerve impulses travel lewat ini untuk transmit all manner information. In effect, communicator.",
+          "note": "Sel khusus untuk pemrosesan informasi, juga dikenal sebagai sel otak. Impuls saraf berjalan melaluinya untuk mengirimkan segala macam informasi. Praktisnya, ia adalah penyampai pesan.",
           "ruby": "Neuron"
         },{
           "ctgr": "Internet",
           "name": "Nicojunkie",
-          "note": "Derogatory term untuk seseorang yang makes frequent use popular video uploading site, Nico Niya Douga.",
+          "note": "Istilah merendahkan untuk orang yang sering memakai situs unggah video populer, Nico Niya Douga.",
           "ruby": "Nicojunkie"
         },{
           "ctgr": "Lainnya",
           "name": "Noradrenalin",
-          "note": "Neurotransmitter secreted di otak. Proper name: norepinephrine. Secreted saat excited emotional state.",
+          "note": "Neurotransmiter yang disekresi di otak. Nama resminya: norepinefrin. Disekresi saat emosi sedang bergairah.",
           "ruby": "Noradrenalin"
         },{
           "ctgr": "Internet",
           "name": "Normie",
-          "note": "People yang find happiness dan fulfillment di real world. Normies. Markers normalcy include punya girlfriend/boyfriend, participating club dan/atau school activities, pergi parties regularly, vacationing overseas, dan displaying lack of interest di 2D (anime) entertainment.",
+          "note": "Orang-orang yang menemukan kebahagiaan dan kepuasan di dunia nyata. Normies. Tanda-tanda kenormalan antara lain punya pacar, ikut kegiatan klub dan/atau sekolah, rutin pergi ke pesta, liburan ke luar negeri, dan tidak tertarik pada hiburan 2D (anime).",
           "ruby": "Normie"
         },{
           "ctgr": "Internet",
           "name": "Nullpo",
-          "note": "Old @channel term. First seen di programming board tahun 2003. \"Nullpo\" short \"NullPointerException,\" error seen di Java programming language. Saat seseorang announces \"nullpo,\" correct response adalah smack mereka di head dan bilang \"Gah!\"",
+          "note": "Istilah lama @channel. Pertama terlihat di papan pemrograman tahun 2003. \"Nullpo\" adalah singkatan \"NullPointerException,\" galat dalam bahasa pemrograman Java. Saat seseorang mengumumkan \"nullpo,\" respons yang benar adalah menoyor kepalanya dan berkata \"Gah!\"",
           "ruby": "Nullpo"
         },{
           "ctgr": "Lainnya",
           "name": "Oatmeal",
-          "note": "Porridge-like cereal populer di Amerika Serikat. Commonly served breakfast.",
+          "note": "Sereal seperti bubur yang populer di Amerika Serikat. Biasa disajikan untuk sarapan.",
           "ruby": "Oatmeal"
         },{
           "ctgr": "Chuunibyou",
           "name": "Odd Eyes",
-          "note": "Heterochromia iridis, condition tempat eyes different colors. Trait sering found di anime dan manga characters. Biasanya tidak ada reason karakter odd-eyed. Mostly hanya untuk moe atau coolness factor.",
+          "note": "Heterochromia iridis, kondisi tempat mata berwarna beda. Sifat yang sering ada di karakter anime dan manga. Biasanya tak ada alasan karakter bermata aneh. Kebanyakan hanya untuk moe atau faktor keren.",
           "ruby": "Odd Eyes"
         },{
           "ctgr": "Internet",
           "name": "Offline Meet",
-          "note": "Juga called offkai. Saat members internet community meet di real life.",
+          "note": "Juga disebut offkai. Saat anggota komunitas internet bertemu di dunia nyata.",
           "ruby": "Offline Meet"
         },{
           "ctgr": "Internet",
           "name": "Oh, you",
-          "note": "Playful comeback, sering dipakai saat seseorang says sesuatu unexpectedly funny.",
+          "note": "Balasan jenaka, sering dipakai saat seseorang bilang sesuatu yang tiba-tiba lucu.",
           "ruby": "Oh, you"
         },{
           "ctgr": "Future Gadget",
           "name": "Once again...",
-          "note": "Future Gadget No. 5. Created dengan combine dryer dan vacuum. Dryer operated pakai exhaust vacuum. Namanya reference popular anime, \"Lupants the Third.\"",
+          "note": "Future Gadget No. 5. Dibuat dengan menggabungkan pengering dan penyedot debu. Pengeringnya dijalankan memakai pembuangan penyedot debu. Namanya merujuk pada anime populer, \"Lupants the Third.\"",
           "ruby": "Once again..."
         },{
           "ctgr": "Internet",
           "name": "Online Right Winger",
-          "note": "People online dengan conservative viewpoints.",
+          "note": "Orang-orang online yang berpandangan konservatif.",
           "ruby": "Online Right Winger"
         },{
           "ctgr": "Lainnya",
           "name": "Oonusa",
-          "note": "Ritual tool dipakai di Shinto practice. Made up sakaki branch dengan paper streaks attached ke tip. Dengan waving atas person selama exorcism, believed bahwa spiritual impurities absorbed dari person dan taken ke oonusa sendiri.",
+          "note": "Alat ritual dalam praktik Shinto. Terbuat dari ranting sakaki dengan helai kertas di ujungnya. Dengan mengibaskannya di atas seseorang saat pengusiran setan, dipercaya kotoran spiritual terserap dari orang itu ke oonusa.",
           "ruby": "Oonusa"
         },{
           "ctgr": "Lainnya",
           "name": "OOPArt",
-          "note": "Out-of-Place-Artifacts. Items out of time dan place. Istilah ini refer man-made objects found di ruins atau ancient geological formations yang tak bisa produced oleh technology supposed time period. Popular examples include Antikythera mechanism dan crystal skulls.",
+          "note": "Singkatan Out-of-Place Artifacts. Benda-benda yang tidak sesuai zaman dan tempatnya. Istilah ini merujuk pada benda buatan manusia yang ditemukan di reruntuhan atau formasi geologis kuno dan tidak mungkin dibuat dengan teknologi zaman yang diklaim. Contoh populernya termasuk mekanisme Antikythera dan tengkorak kristal.",
           "ruby": "OOPArt"
         },{
           "ctgr": "Lainnya",
           "name": "OS",
-          "note": "Operating System. Base software yang forms fundamentals seluruh system komputer.",
+          "note": "Operating System. Perangkat lunak dasar yang membentuk fondasi seluruh sistem komputer.",
           "ruby": "OS"
         },{
           "ctgr": "Otaku",
           "name": "Otaku",
-          "note": "Nerd atau enthusiast, sering dengan highly focused special interest.",
+          "note": "Kutu buku atau penggemar berat, sering dengan minat khusus yang sangat terfokus.",
           "ruby": "Otaku"
         },{
           "ctgr": "Lainnya",
           "name": "Pager",
-          "note": "Early method receiving wireless messages. Service di Jepang started sekitar 1968. Setelah support text data added 1990-an, pagers grew popularity di antara high school girls. Namun, pagers segera replaced oleh cellular phones. Pager service terminated 2007.",
+          "note": "Metode lawas menerima pesan nirkabel. Layanan di Jepang mulai sekitar 1968. Setelah dukungan data teks ditambahkan tahun 1990-an, pager populer di kalangan siswi SMA. Namun, pager segera digantikan ponsel. Layanan pager dihentikan tahun 2007.",
           "ruby": "Pager"
         },{
           "ctgr": "Internet",
           "name": "Pain in the ass",
-          "note": "PITA. Sesuatu annoying.",
+          "note": "PITA. Sesuatu yang menyebalkan.",
           "ruby": "Pain in the ass"
         },{
           "ctgr": "Lainnya",
           "name": "Parahippocampal Gyrus",
-          "note": "Hippocampus responsible memory dan spatial recognition, dan parahippocampal gyrus region yang surrounds. Parahippocampal gyrus handles spatial processing dan familiarity. Juga plays crucial role memory encoding dan recall.",
+          "note": "Hippocampus bertanggung jawab atas ingatan dan pengenalan ruang, dan girus parahippocampal adalah wilayah yang mengelilinginya. Girus parahippocampal menangani pemrosesan ruang dan familiaritas. Juga berperan penting dalam pengodean dan pemanggilan ingatan.",
           "ruby": "Parahippocampal Gyrus"
         },{
           "ctgr": "Lainnya",
           "name": "Parallel World",
-          "note": "Universe yang exists separate dari ours. Believed bahwa some parallel worlds mungkin strikingly similar dengan ours, bahkan containing duplicates ourselves.",
+          "note": "Semesta yang ada terpisah dari semesta kita. Diyakini sebagian dunia paralel mungkin sangat mirip dengan dunia kita, bahkan berisi kembaran diri kita.",
           "ruby": "Parallel World"
         },{
           "ctgr": "Lainnya",
           "name": "Pedestrian Heaven",
-          "note": "Some neighborhoods Tokyo, seperti Akihabara, close major streets di busy shopping days. Effectively turns street jadi one big sidewalk, facilitating pedestrian access.",
+          "note": "Beberapa kawasan Tokyo, seperti Akihabara, menutup jalan-jalan besar pada hari-hari belanja yang ramai. Praktisnya jalan berubah menjadi satu trotoar raksasa, memudahkan akses pejalan kaki.",
           "ruby": "Pedestrian Heaven"
         },{
           "ctgr": "Lainnya",
           "name": "Penisilin",
-          "note": "World's first antibiotic. Discovered 1929.",
+          "note": "Antibiotik pertama di dunia. Ditemukan tahun 1929.",
           "ruby": "Penisilin"
         },{
           "ctgr": "Sains",
           "name": "Penrose Diagram",
-          "note": "Method representing infinite spacetime dalam finite two-dimensional diagram. Developed oleh physicist Roger Penrose.",
+          "note": "Metode menggambarkan ruang-waktu tak hingga dalam diagram dua dimensi yang terbatas. Dikembangkan fisikawan Roger Penrose.",
           "ruby": "Penrose Diagram"
         },{
           "ctgr": "Lainnya",
           "name": "Peripheral Nerves",
-          "note": "Nerves yang branch dari central nervous system (otak dan spinal cord) dan spread lewat body seperti network.\n\nMereka broken down tiga classifications: Motor nerves yang control limb movement, sensory nerves yang transmit external stimuli ke otak, dan autonomic nerves yang regulate organ functions dan processes seperti breathing dan digestion.",
+          "note": "Saraf yang bercabang dari sistem saraf pusat (otak dan sumsum tulang belakang) dan menyebar lewat tubuh seperti jaringan.\n\nMereka terbagi tiga golongan: saraf motorik yang mengendalikan gerak anggota tubuh, saraf sensorik yang mengirim rangsang luar ke otak, dan saraf otonom yang mengatur fungsi organ dan proses seperti bernapas dan mencerna.",
           "ruby": "Peripheral Nerves"
         },{
           "ctgr": "Sains",
           "name": "Phase Transition",
-          "note": "Phase transition adalah yang occurs saat substance changes dari one state of matter ke lain karena external factors seperti temperature dan pressure. Examples include liquid-solid (freezing), liquid-gas (evaporation), ferromagnetic-paramagnetic, dan vacuum phase transition.",
+          "note": "Transisi fase adalah peristiwa saat zat berubah dari satu wujud materi ke wujud lain karena faktor luar seperti suhu dan tekanan. Contohnya cair-padat (pembekuan), cair-gas (penguapan), feromagnetik-paramagnetik, dan transisi fase vakum.",
           "ruby": "Phase Transition"
         },{
           "ctgr": "Future Gadget",
           "name": "PhoneWave (Name Subject To Change)",
-          "note": "Future Gadget No. 8. Microwave oven designed remotely operated oleh phone. Unintentionally developed ability kirim text messages ke masa lalu.",
+          "note": "Future Gadget No. 8. Oven microwave yang dirancang dioperasikan dari jauh memakai ponsel. Tanpa sengaja ia mengembangkan kemampuan mengirim pesan teks ke masa lalu.",
           "ruby": "PhoneWave (Name Subject To Change)"
         },{
           "ctgr": "Lainnya",
           "name": "PI",
-          "note": "Private Investigator. Professional yang investigates businesses atau individuals. PI agencies sering conduct background dan credit checks pada prospective marriage partners atau business associates, tapi mereka juga known look into suspected infidelity dan other such personal affairs.",
+          "note": "Singkatan Private Investigator. Profesional yang menyelidiki perusahaan atau perorangan. Agen PI sering melakukan pemeriksaan latar belakang dan kredit terhadap calon pasangan nikah atau rekan bisnis, tapi mereka juga dikenal menyelidiki dugaan perselingkuhan dan urusan pribadi semacam itu.",
           "ruby": "PI"
         },{
           "ctgr": "Internet",
           "name": "pl0x",
-          "note": "Internet slang. Dipakai place \"please.\" Fairly obsolete modern standards.",
+          "note": "Slang internet. Dipakai sebagai pengganti \"please.\" Kini sudah cukup ketinggalan zaman.",
           "ruby": "pl0x"
         },{
           "ctgr": "Lainnya",
           "name": "Placebo Effect",
-          "note": "Placebo adalah sesuatu yang seems seperti medicine tapi tidak ada medicinal effect. Saat taken oleh patient yang believes itu medicine, memberi psychological stability. Despite placebos tidak ada medicinal effect, ada cases kondisi patient improves.",
+          "note": "Plasebo adalah sesuatu yang tampak seperti obat tapi tak ada efek obatnya. Saat diminum pasien yang percaya itu obat, memberi ketenangan psikologis. Meski plasebo tak ada efek obatnya, ada kasus kondisi pasien membaik.",
           "ruby": "Placebo Effect"
         },{
           "ctgr": "Internet",
           "name": "plz",
-          "note": "Short \"please.\"",
+          "note": "Singkatan \"please\" (tolong).",
           "ruby": "plz"
         },{
           "ctgr": "Internet",
           "name": "Post",
-          "note": "Posting atau uploading sesuatu.",
+          "note": "Memposting atau mengunggah sesuatu.",
           "ruby": "Post"
         },{
           "ctgr": "Internet",
           "name": "Problem Video",
-          "note": "CG mockup LHC-generated mini black hole swallowing earth. Went viral saat uploaded ke MewTube.",
+          "note": "Rekaan CG lubang hitam mini buatan LHC yang menelan bumi. Viral saat diunggah ke MewTube.",
           "ruby": "Problem Video"
         },{
           "ctgr": "Lainnya",
           "name": "Psychophysiology Research Institute",
-          "note": "Salah satu research institutes yang make up Viktor Chondria University. Brain Science Institute university seeks uncover mechanisms human memory dan thought lewat direct exploration otak, sementara Psychophysiology Research Institute more medically oriented. Members study mental activity dan physiological bodily responses, aiming produce new forms treatment.\n\nMereka research wide range hal, including tapi tidak limited cognitive function, perception, reflexes, learning development, sleep, alcohol dependency, dan schizophrenia.",
+          "note": "Salah satu institut riset yang membentuk Universitas Viktor Chondria. Institut Ilmu Otak universitas tersebut berupaya mengungkap mekanisme ingatan dan pikiran manusia lewat penjelajahan langsung ke otak, sedangkan Institut Riset Psikofisiologi lebih berorientasi medis. Para anggotanya mempelajari aktivitas mental dan respons fisiologis tubuh, dengan tujuan menghasilkan bentuk-bentuk pengobatan baru.\n\nMereka meneliti berbagai hal, antara lain fungsi kognitif, persepsi, refleks, perkembangan belajar, tidur, ketergantungan alkohol, dan skizofrenia.",
           "ruby": "Psychophysiology Research Institute"
         },{
           "ctgr": "Sains",
           "name": "Quantum Teleportation",
-          "note": "Tidak refer actual teleportation. Tahun 2004, Japanese researchers performed first successful \"complete quantum leap\" experiment. Misal kami punya twin photons, A dan B. Karena twins, mereka punya symmetry—kalau satu exhibits up-spin, other exhibits down-spin. Ini berarti bahwa observing either photon allows tahu state other. Ini called entanglement.\nState photon tak bisa confirmed sampai observed. Untuk experiment, kami attach Data C, info yang ingin teleport, ke Photon A. Kami kini observing photon A-C. Berdasarkan symmetry, kami tahu bahwa, no matter how far away, Photon B akan change match, effectively becoming B-C. (Note bahwa Photon B belum observed.)\nSesudahnya, kami kirim info Photon A-C dari observation equipment A ke equipment B lewat standard transmission. Kini, observing Photon B akan change jadi \"Photon B-C.\" Namun, karena satu step requires standard data transmission, impossible info exceed speed of light. Finally, \"teleported\" Data C Photon B-C sebenarnya copy Data C Photon A-C. Di quantum teleportation as opposed actual teleportation, position Data C changes instantly, tapi whereabouts original Photon C becomes unknown. ",
+          "note": "Bukan merujuk pada teleportasi sungguhan. Pada 2004, peneliti Jepang berhasil melakukan eksperimen \"lompatan kuantum sempurna\" pertama. Misalkan kita punya foton kembar, A dan B. Karena kembar, keduanya punya simetri—jika satu menunjukkan spin atas, yang lain menunjukkan spin bawah. Artinya, mengamati salah satu foton membuat kita tahu keadaan foton lainnya. Ini disebut entanglement.\nKeadaan foton tidak bisa dipastikan sampai diamati. Untuk eksperimen ini, kita tempelkan Data C, informasi yang ingin diteleportasi, ke Foton A. Kini kita mengamati foton A-C. Berdasarkan simetri, kita tahu bahwa sejauh apa pun jaraknya, Foton B akan berubah menyesuaikan, praktis menjadi B-C. (Perhatikan bahwa Foton B belum diamati.)\nSetelah itu, kita kirim informasi Foton A-C dari peralatan observasi A ke peralatan B melalui transmisi biasa. Kini, mengamati Foton B akan mengubahnya menjadi \"Foton B-C.\" Namun, karena satu langkahnya memakai transmisi data biasa, informasi tidak mungkin melampaui kecepatan cahaya. Akhirnya, Data C yang \"diteleportasi\" milik Foton B-C sebenarnya salinan dari Data C milik Foton A-C. Dalam teleportasi kuantum—berbeda dengan teleportasi sungguhan—posisi Data C berpindah seketika, tapi keberadaan Foton C yang asli menjadi tidak diketahui.",
           "ruby": "Quantum Teleportation"
         },{
           "ctgr": "Akihabara",
           "name": "Radikan",
-          "note": "Radio Kaikan Akihabara. Eight-story multi-tenant building conveniently located depan Akihabara Station. Contains various stores, many computer shops dan hobby shops. Di lantai tujuh, ada plaque yang marks birthplace personal computer.",
+          "note": "Radio Kaikan Akihabara. Gedung multi-tenant delapan lantai di lokasi strategis depan Stasiun Akihabara. Berisi berbagai toko, kebanyakan toko komputer dan toko hobi. Di lantai tujuh ada prasasti yang menandainya sebagai tempat lahir komputer pribadi.",
           "ruby": "Radikan"
         },{
           "ctgr": "Chuunibyou",
           "name": "Ragnarok",
-          "note": "Di Norse mythology, final war of gods. \"Twilight of the Gods.\"",
+          "note": "Dalam mitologi Nordik, perang terakhir para dewa. \"Senja para Dewa.\"",
           "ruby": "Ragnarok"
         },{
           "ctgr": "Otaku",
           "name": "RaiNet Kakeru",
-          "note": "Popular manga serialized di LocoLoco Comics. Third season anime adaptation kini airing di ToTV. Meski series ostensibly aimed children, realistic themes depicted juga appeal adults.\nMakin banyak children belajar soal internet lewat anime ini. Telah reach point tempat some scholars claim bahwa children better informed daripada parents with regard internet issues. Some people bahkan sebut new generation ini \"RaiNet Children.\"\nSome politicians dan organizations strongly criticized series untuk \"encouraging children jadi shut-ins\" dengan idealizing boys dan girls obsessed computers. Namun, majority adults praise series untuk teach children soal possibilities internet, internet morality, copyright infringement, dan privacy protection. Ini contributed kesuksesan RaiNet.\nMeski series stimulates intellectual curiosity, bukan merely educational program. Saat Kakeru battles terrorists di cyberspace, techniques dan programs-nya represented sebagai virtual robots sementara viruses musuhnya take form monsters. Ini buat confrontations easy visualize, dengan well-timed perspective changes depicting baik techniques protagonist dalam komputer, dan teamwork friends-nya luar komputer.",
+          "note": "Manga populer yang serial di LocoLoco Comics. Musim ketiga adaptasi animenya kini tayang di ToTV. Meski serial ini katanya untuk anak-anak, tema realistisnya juga menarik orang dewasa.\nMakin banyak anak belajar soal internet lewat anime ini. Sudah sampai titik ada sarjana yang klaim anak-anak lebih paham daripada orang tua soal masalah internet. Ada juga yang sebut generasi baru ini \"Anak-Anak RaiNet.\"\nSebagian politikus dan organisasi mengkritik keras serial ini karena \"mendorong anak jadi shut-in\" dengan mengidealkan bocah yang tergila-gila komputer. Namun, mayoritas orang dewasa memuji serial ini karena mengajarkan anak soal kemungkinan internet, moral internet, pelanggaran hak cipta, dan perlindungan privasi. Ini ikut menyukseskan RaiNet.\nMeski merangsang rasa ingin tahu, ini bukan sekadar program edukasi. Saat Kakeru melawan teroris di dunia maya, teknik dan programnya digambarkan sebagai robot virtual sementara virus musuh berwujud monster. Ini membuat pertarungannya mudah divisualkan, dengan perubahan sudut pandang tepat waktu yang menggambarkan teknik protagonis dalam komputer, dan kerja sama teman-temannya di luar komputer.",
           "ruby": "RaiNet Kakeru"
         },{
           "ctgr": "Chuunibyou",
           "name": "Reality Marble",
-          "note": "Jenis magecraft tempat user overwrites dunia dengan pocket dimension berdasarkan emotional experience-nya. Sering dipakai ordinary conversation untuk speak couples flirting di publik, immersed dunia sendiri, tidak peduli pain mereka inflicting pada others.",
+          "note": "Jenis sihir tempat pengguna menimpa dunia dengan dimensi saku berdasarkan pengalaman emosinya. Sering dipakai dalam percakapan biasa untuk menyindir pasangan mesra di publik, tenggelam di dunianya sendiri, tak peduli rasa sakit yang ditimbulkan pada orang lain.",
           "ruby": "Reality Marble"
         },{
           "ctgr": "Lainnya",
           "name": "Resistance",
-          "note": "Armed forces yang resist governments atau similar ruling entities. Acts of resistance sering blur line dengan terrorism.",
+          "note": "Angkatan bersenjata yang melawan pemerintah atau penguasa sejenis. Aksi perlawanan sering kabur batasnya dengan terorisme.",
           "ruby": "Resistance"
         },{
           "ctgr": "Internet",
           "name": "rofl",
-          "note": "Internet slang. Acronym \"rolling on the floor laughing.\"",
+          "note": "Slang internet. Singkatan \"rolling on the floor laughing\" (tertawa sampai guling-guling).",
           "ruby": "rofl"
         },{
           "ctgr": "Lainnya",
           "name": "Root Access",
-          "note": "Administrative power atas system. Dengan root access, bisa perform hampir any operation dalam confines system. Bisa dipakai akses semua system files, atau change passwords accounts lain.",
+          "note": "Kekuasaan administratif atas sebuah sistem. Dengan akses root, seseorang bisa melakukan hampir segala operasi dalam batas-batas sistem. Bisa dipakai mengakses semua berkas sistem, atau mengganti kata sandi akun lain.",
           "ruby": "Root Access"
         },{
           "ctgr": "Chuunibyou",
           "name": "Rosicrucian Order",
-          "note": "Secret society founded 17th-century Germany oleh Christian Rosenkreuz. Rosenkreuz supposedly practitioner alchemy dan black magic.",
+          "note": "Perkumpulan rahasia yang didirikan di Jerman abad ke-17 oleh Christian Rosenkreuz. Konon Rosenkreuz adalah praktisi alkimia dan ilmu hitam.",
           "ruby": "Rosicrucian Order"
         },{
           "ctgr": "Lainnya",
           "name": "Rounder",
-          "note": "Unofficial subordinate organization SERN. Ostensibly, mereka operate sebagai separate entity, conducting technical investigations worldwide. Unknown berapa agents mereka.\n\nTrue objective mereka adalah track down dan eliminate budding time travel research, forcing researchers mereka temukan untuk work dengan SERN. Mereka juga round up IBN 5100s, karena hanya PCs ini bisa akses hidden database SERN.\n\nFunctionally mereka band of mercenaries, dan mereka tidak takut get violent. Most disposable members organisasi conduct activities mereka tanpa ever seeing member lain in the flesh.",
+          "note": "Organisasi bawahan tidak resmi SERN. Di permukaan, mereka bergerak sebagai entitas terpisah yang melakukan investigasi teknis di seluruh dunia. Tidak diketahui berapa banyak agen yang mereka miliki.\n\nTujuan sebenarnya mereka adalah melacak dan melenyapkan setiap penelitian perjalanan waktu yang baru tumbuh, memaksa peneliti yang mereka temukan untuk bekerja sama dengan SERN. Mereka juga mengumpulkan IBN 5100, karena hanya PC inilah yang bisa mengakses basis data tersembunyi SERN.\n\nPraktisnya mereka sekelompok tentara bayaran, dan tidak segan memakai kekerasan. Anggota paling buangan di organisasi ini menjalankan kegiatannya tanpa pernah bertemu anggota lain secara langsung.",
           "ruby": "Rounder"
         },{
           "ctgr": "Akihabara",
           "name": "Sanpo",
-          "note": "Beef bowl restaurant di Akihabara.",
+          "note": "Rumah makan gyudon di Akihabara.",
           "ruby": "Sanpo"
         },{
           "ctgr": "Internet",
           "name": "Sauce",
-          "note": "Slang \"source.\" References, source materials, documents, atau news stories sering dipakai sebagai sources information. False information rife di anonymous message boards, jadi presenting sources-mu necessary agar taken seriously.",
+          "note": "Slang dari \"source\" (sumber). Referensi, bahan sumber, dokumen, atau berita sering dipakai sebagai sumber informasi. Informasi palsu merajalela di papan pesan anonim, jadi menyertakan sumber itu perlu agar dianggap serius.",
           "ruby": "Sauce"
         },{
           "ctgr": "Otaku",
           "name": "Schlocky",
-          "note": "Istilah refer sesuatu low quality, garish atau tacky. Schlocky books sering contain far-fetched, almost delusional logic. Banyak conspiratorial books ini bisa delve paranormal theory, UFOs, occult phenomena dan other such ramblings.",
+          "note": "Istilah untuk sesuatu yang murahan, norak, atau selera rendah. Buku-buku murahan sering berisi logika yang mengada-ada, nyaris delusional. Banyak buku konspirasi semacam ini bisa merambah ke teori paranormal, UFO, fenomena okultisme, dan omong kosong sejenis.",
           "ruby": "Schlocky"
         },{
           "ctgr": "Internet",
           "name": "Seething",
-          "note": "Profoundly enraged sampai point disbelief.",
+          "note": "Marah besar sampai tidak percaya.",
           "ruby": "Seething"
         },{
           "ctgr": "Chuunibyou",
           "name": "Seishin Zanma",
-          "note": "School demon-sealing swordplay granted oleh Hououin Kyouma unto Urushibara Luka, yang fits practice sebagai descendant salah satu guardians Akihabara. Juga serves method mental discipline yang tempers wicked flames slumbering dalam body Luka. Saat enacted pakai cursed blade Samidare, true power techniques bisa unlocked... Itu story yang Okabe buat, setidaknya.",
+          "note": "Aliran pedang penyegel iblis yang dianugerahkan Hououin Kyouma kepada Urushibara Luka, yang cocok karena keturunan salah satu penjaga Akihabara. Juga berfungsi sebagai disiplin mental yang menjinakkan api jahat yang tertidur dalam tubuh Luka. Saat dipakai dengan pedang terkutuk Samidare, kekuatan sejati tekniknya bisa terbuka... Begitulah cerita yang dibuat Okabe, setidaknya.",
           "ruby": "Seishin Zanma"
         },{
           "ctgr": "Sains",
           "name": "Self-consistency Principle",
-          "note": "Novikov self-consistency principle asserts bahwa bahkan kalau seseorang time travels ke masa lalu dan attempts ciptakan time paradox, unseen force lalu akan intervene, preventing action itu carried out at all costs.",
+          "note": "Prinsip konsistensi diri Novikov menyatakan bahwa bahkan kalau seseorang pergi ke masa lalu dan mencoba menciptakan paradoks waktu, kekuatan tak terlihat akan turun tangan, mencegah tindakan itu terlaksana apa pun yang terjadi.",
           "ruby": "Self-consistency Principle"
         },{
           "ctgr": "Lainnya",
           "name": "Serendipity",
-          "note": "Ability discover sesuatu valuable saat cari sesuatu else. Microwave oven lahir lewat serendipity.",
+          "note": "Kemampuan menemukan sesuatu yang berharga saat mencari hal lain. Oven microwave lahir lewat serendipity.",
           "ruby": "Serendipity"
         },{
           "ctgr": "Sains",
           "name": "SERN",
-          "note": "French acronym \"Societe Européen pour la Recherche Nucléaire,\" atau \"European Society for Nuclear Research.\" World's largest elementary particle physics laboratory, located Franco-Swiss border dekat Geneva. Punya bank, library, post office, dan dorm di premises. Scientists seluruh dunia gather di SERN untuk research particle physics.",
+          "note": "Akronim Prancis untuk \"Societe Européen pour la Recherche Nucléaire,\" atau \"Perhimpunan Eropa untuk Riset Nuklir.\" Laboratorium fisika partikel elementer terbesar di dunia, terletak di perbatasan Prancis-Swiss dekat Jenewa. Punya bank, perpustakaan, kantor pos, dan asrama di areanya. Ilmuwan dari seluruh dunia berkumpul di SERN untuk meneliti fisika partikel.",
           "ruby": "SERN"
         },{
           "ctgr": "Lainnya",
           "name": "Sewing Kit",
-          "note": "Kit. Untuk sewing.",
+          "note": "Kit. Untuk menjahit.",
           "ruby": "Sewing Kit"
         },{
           "ctgr": "Lainnya",
           "name": "Gempa Shibuya",
-          "note": "Jam 10:28 malam 6 November 2009, localized magnitude 7.8 earthquake struck Shibuya, reaching maximum intensity 7. Major disaster resulted, leaving 3,851 orang dead dan 30,927 injured.\n\nDespite intensity, tremors observed hanya part Shibuya, dan tidak ada damage reported elsewhere. Unusual circumstance ini resulted odd rumors suggesting bahwa itu mungkin artificial, man-made earthquake.\n\nTepat sebelum quake, series macabre murders known New Generation Madness telah rippled lewat Shibuya. 25-year-old man arrested sebagai culprit died dalam confusion earthquake.",
+          "note": "Pada jam 10:28 malam tanggal 6 November 2009, gempa lokal bermagnitudo 7,8 mengguncang Shibuya, mencapai intensitas maksimum 7. Bencana besar terjadi, 3.851 orang tewas dan 30.927 luka-luka.\n\nMeski kuat, getarannya hanya teramati di sebagian Shibuya, dan tidak ada kerusakan dilaporkan di tempat lain. Keadaan janggal ini memicu rumor aneh bahwa gempa itu mungkin buatan manusia.\n\nTepat sebelum gempa, serangkaian pembunuhan mengerikan yang dikenal sebagai New Generation Madness telah menggemparkan Shibuya. Pria 25 tahun yang ditangkap sebagai pelakunya tewas dalam kekacauan gempa.",
           "ruby": "Gempa Shibuya"
         },{
           "ctgr": "Sains",
           "name": "Singularity",
-          "note": "Di astrophysics, point infinite gravity. Singularities predicted exist di center black holes. Namun, karena impossible observe interior singularity, existence such tak bisa proven. Di black hole, singularity formed oleh gravitational collapse dying star. Misalnya, bayangkan star millions kilometers diameter.\nKini bayangkan entire mass star compressed ke space smaller daripada period di end kalimat ini. Itu singularity.",
+          "note": "Dalam astrofisika, titik gravitasi tak hingga. Singularitas diprediksi ada di pusat black hole. Namun, karena mustahil mengamati bagian dalam singularitas, keberadaannya tak bisa dibuktikan. Di black hole, singularitas terbentuk oleh keruntuhan gravitasi bintang sekarat. Misalnya, bayangkan bintang jutaan kilometer diameternya.\nKini bayangkan seluruh massa bintang itu dimampatkan ke ruang lebih kecil daripada titik di akhir kalimat ini. Itulah singularitas.",
           "ruby": "Singularity"
         },{
           "ctgr": "Chuunibyou",
           "name": "Skuld",
-          "note": "Youngest Three Norns (goddesses of fate) di Norse mythology. Three sisters tend world tree, Yggdrasil, yang punya roots di Urd's fountain. Skuld adalah Norn of the Future. Juga valkyrie.",
+          "note": "Yang termuda dari Tiga Norn (dewi-dewi takdir) dalam mitologi Nordik. Tiga bersaudari ini merawat pohon dunia, Yggdrasil, yang akarnya berada di mata air Urd. Skuld adalah Norn Masa Depan. Juga seorang valkyrie.",
           "ruby": "Skuld"
         },{
           "ctgr": "Internet",
           "name": "Slammer",
-          "note": "Jail.",
+          "note": "Penjara.",
           "ruby": "Slammer"
         },{
           "ctgr": "Internet",
           "name": "Smex",
-          "note": "Sex.",
+          "note": "Seks.",
           "ruby": "Smex"
         },{
           "ctgr": "Internet",
           "name": "Smug face",
-          "note": "Sering dipakai image form, depiction smug face adalah staple online mockery.",
+          "note": "Sering dipakai sebagai gambar, wajah pongah adalah andalan ejekan online.",
           "ruby": "Smug face"
         },{
           "ctgr": "Internet",
           "name": "Sniffa Sniffa",
-          "note": "Comedic onomatopoeia dipakai describe act sniffing. Sering written atau said exaggerated context, atau oleh discerning perverted gentlemen yang ingin explain just how emphatically mereka sniffing designated target mereka.",
+          "note": "Onomatope komedi untuk tindakan mengendus. Sering ditulis atau diucapkan secara berlebihan, atau oleh para pria mesum cerdas yang ingin menjelaskan betapa bersemangatnya mereka mengendus targetnya.",
           "ruby": "Sniffa Sniffa"
         },{
           "ctgr": "Otaku",
           "name": "Someone this cute can't be a girl",
-          "note": "Unwritten rule untuk pakai phrase ini kapan pun kau lihat seseorang yang looks seperti cute girl tapi either unspecified gender atau actually boy. Expression ini juga dipakai sarcastically dengan boyish-looking girls.",
+          "note": "Aturan tak tertulis untuk memakai frasa ini kapan pun kau lihat seseorang yang tampak seperti gadis imut tapi gendernya tak jelas atau sebenarnya bocah. Ungkapan ini juga dipakai menyindir gadis tomboi.",
           "ruby": "Someone this cute can't be a girl"
         },{
           "ctgr": "Internet",
           "name": "Sorry, not sorry",
-          "note": "Backhanded way apologizing. Typically dipakai untuk dismiss atau disregard other person dalam conversation, apology yang bukan really apology sama sekali.",
+          "note": "Cara meminta maaf yang tidak tulus. Biasanya dipakai untuk mengabaikan atau meremehkan lawan bicara, permintaan maaf yang sebenarnya bukan permintaan maaf sama sekali.",
           "ruby": "Sorry, not sorry"
         },{
           "ctgr": "Internet",
           "name": "Spam",
-          "note": "Spam mail. Messages sent unilaterally, bahkan saat recipient tidak ingin. Sering dipakai criminals commit fraud atau spread computer viruses. Take care tidak open messages ini.",
+          "note": "Surel sampah. Pesan yang dikirim sepihak, bahkan saat penerimanya tidak menginginkan. Sering dipakai penjahat untuk penipuan atau menyebar virus komputer. Hati-hati jangan membuka pesan-pesan seperti ini.",
           "ruby": "Spam"
         },{
           "ctgr": "Lainnya",
           "name": "SQL",
-          "note": "Structured Query Language. Dipakai manage databases.",
+          "note": "Structured Query Language. Dipakai mengelola basis data.",
           "ruby": "SQL"
         },{
           "ctgr": "Internet",
           "name": "srsly",
-          "note": "Internet slang. Short \"seriously.\"",
+          "note": "Slang internet. Singkatan \"seriously.\"",
           "ruby": "srsly"
         },{
           "ctgr": "Otaku",
           "name": "Stand",
-          "note": "Fictional supernatural ability dari popular manga soal most bizarre adventure. Mereka yang bisa utilize Stands known Stand Users.",
+          "note": "Kemampuan supranatural fiktif dari manga populer tentang petualangan paling aneh. Mereka yang bisa memakai Stand disebut Stand User.",
           "ruby": "Stand"
         },{
           "ctgr": "Internet",
           "name": "Standalone",
-          "note": "Komputer yang tidak connected ke komputer atau network lain.",
+          "note": "Komputer yang tidak terhubung ke komputer atau jaringan lain.",
           "ruby": "Standalone"
         },{
           "ctgr": "Lainnya",
           "name": "Starbecks",
-          "note": "Coffee shop chain.",
+          "note": "Jaringan kedai kopi.",
           "ruby": "Starbecks"
         },{
           "ctgr": "Internet",
           "name": "STFU",
-          "note": "Shut the fuck up. Kau annoying.",
+          "note": "Tutup mulutmu. Kau menyebalkan.",
           "ruby": "STFU"
         },{
           "ctgr": "Otaku",
           "name": "Stock Transformation Scene",
-          "note": "Refer transformation sequences di \"henshin hero\" dan magical girl anime. Karena stock transformation scenes dipakai nearly tiap episode, animation mereka done independently in advance. Hasilnya, production quality sering higher daripada rest anime.",
+          "note": "Merujuk adegan transformasi di anime \"henshin hero\" dan gadis penyihir. Karena dipakai hampir tiap episode, animasinya dibuat terpisah di muka. Hasilnya, kualitas produksinya sering lebih tinggi daripada bagian anime lainnya.",
           "ruby": "Stock Transformation Scene"
         },{
           "ctgr": "Lainnya",
           "name": "Student Protests",
-          "note": "Di 1960-an dan 1970-an Jepang, series organized movements spearheaded university students gained momentum. Goals mereka included social system reform, dan various political maneuvers. Movement grew response reactions ke Japan-U.S. Security Treaty. Over time, internal division, radicalization, dan heightened extremism mulai develop dalam organizations. Mid-1970-an, public support waned dan movement gradually collapsed.",
+          "note": "Pada 1960-an dan 1970-an di Jepang, serangkaian gerakan terorganisasi yang dipelopori mahasiswa berkembang pesat. Tujuannya mencakup reformasi sistem sosial dan berbagai manuver politik. Gerakan ini membesar sebagai respons terhadap Perjanjian Keamanan Jepang-AS. Seiring waktu, perpecahan internal, radikalisasi, dan ekstremisme yang meningkat mulai berkembang di dalam organisasi-organisasi itu. Pada pertengahan 1970-an, dukungan publik memudar dan gerakan ini perlahan runtuh.",
           "ruby": "Student Protests"
         },{
           "ctgr": "Lainnya",
           "name": "Stun Grenade",
-          "note": "Juga known flashbang, non-lethal weapon designed indoor use. Saat detonates, releases loud noise dan flash of light, temporarily disorienting semua in range.",
+          "note": "Juga dikenal sebagai flashbang, senjata non-mematikan yang dirancang untuk pemakaian di dalam ruangan. Saat meledak, alat ini melepaskan suara keras dan kilatan cahaya, membuat semua orang dalam jangkauannya disorientasi sementara.",
           "ruby": "Stun Grenade"
         },{
           "ctgr": "Internet",
           "name": "Stupid Expensive",
-          "note": "Istilah dipakai refer sesuatu ludicrously overpriced.",
+          "note": "Istilah untuk sesuatu yang harganya tidak masuk akal.",
           "ruby": "Stupid Expensive"
         },{
           "ctgr": "Internet",
           "name": "Super Hacka",
-          "note": "Tremendously skilled hacker. Atau setidaknya seseorang yang claims jadi. Threat \"temanku hacker, jadi dia bisa easily find out siapa kau\" sering appears selama arguments di internet. People mockingly sebut obviously nonexistent hacker \"hacka.\"",
+          "note": "Hacker yang luar biasa terampil. Atau setidaknya mengaku begitu. Ancaman \"temanku hacker, jadi dia gampang tahu siapa kau\" sering muncul saat adu mulut di internet. Orang mengejek hacker yang jelas-jelas tidak ada itu sebagai \"hacka.\"",
           "ruby": "Super Hacka"
         },{
           "ctgr": "Sains",
           "name": "Superstring Theory",
-          "note": "Di fisika, teori bahwa semua matter di universe composed \"strings,\" vibrations mereka manifest sebagai elementary particles. Teori ini, yang posits 11 dimensions, kini impossible prove experimentally. Namun, said bahwa kalau teori ini proven, akan explain semua phenomena dari birth dan scope universe macro level, ke elementary particles, seperti quarks, micro level.",
+          "note": "Dalam fisika, teori bahwa semua materi di semesta tersusun dari \"senar,\" yang getarannya mewujud sebagai partikel elementer. Teori ini, yang menyatakan 11 dimensi, kini mustahil dibuktikan secara eksperimen. Namun, konon kalau teori ini terbukti, ia akan menjelaskan semua fenomena dari lahir dan lingkup semesta level makro, sampai partikel elementer, seperti kuark, level mikro.",
           "ruby": "Superstring Theory"
         },{
           "ctgr": "Lainnya",
           "name": "Synchronicity",
-          "note": "Meaningful coincidence. Simultaneity. Feeling bahwa dua causally unrelated events punya meaningful deterministic relationship. Misalnya, \"Vas fell dan shattered, dan bersamaan, nenekku died di hospital.\"\nHampir semua pernah felt synchronicity di point hidup mereka. Konsep advocated Swiss psychologist Carl Jung (1875-1961).",
+          "note": "Kebetulan yang bermakna. Keserentakan. Perasaan bahwa dua peristiwa yang tak berhubungan sebab-akibat punya hubungan menentukan yang bermakna. Misalnya, \"Vas jatuh dan pecah, dan bersamaan, nenekku meninggal di rumah sakit.\"\nHampir semua orang pernah merasakan sinkronisitas di hidupnya. Konsep yang diusung psikolog Swiss Carl Jung (1875-1961).",
           "ruby": "Synchronicity"
         },{
           "ctgr": "Lainnya",
           "name": "Teleport",
-          "note": "Teleportation. Instantaneous movement antara dua distant locations. Completely defies laws fisika, dan sering shows up fiksi sebagai supernatural ability.",
+          "note": "Teleportasi. Perpindahan seketika antara dua lokasi yang jauh. Sepenuhnya menentang hukum fisika, dan sering muncul dalam fiksi sebagai kemampuan supranatural.",
           "ruby": "Teleport"
         },{
           "ctgr": "Lainnya",
           "name": "Temporal Lobe",
-          "note": "Region cerebrum di sides otak. Responsible language comprehension, memory, judgment dan emotional control, dan hearing. Temporal lobe needed akses hippocampus sebagai part limbic system.",
+          "note": "Wilayah cerebrum di sisi-sisi otak. Bertanggung jawab atas pemahaman bahasa, ingatan, penilaian dan pengendalian emosi, serta pendengaran. Lobus temporal dibutuhkan untuk mengakses hippocampus sebagai bagian sistem limbik.",
           "ruby": "Temporal Lobe"
         },{
           "ctgr": "Otaku",
           "name": "Tennis Manga",
-          "note": "Particularly popular tennis manga yang serialized di salah satu shounen manga magazines Jepang dan later adapted jadi anime. Enjoys especially strong popularity di antara female fans. Despite centered tennis, series features bombastic special moves yang buat tampak more like battle manga, ciptakan highly distinctive dan unique world.",
+          "note": "Manga tenis yang sangat populer yang serial di salah satu majalah manga shonen Jepang dan kemudian diadaptasi jadi anime. Sangat populer terutama di kalangan penggemar wanita. Meski berpusat pada tenis, serial ini menampilkan jurus spesial bombastis yang membuatnya tampak lebih seperti manga laga, menciptakan dunia yang sangat khas dan unik.",
           "ruby": "Tennis Manga"
         },{
           "ctgr": "Lainnya",
           "name": "Terminal Mode",
-          "note": "Pakai another networked external computer terminal untuk operate program yang tak bisa run otherwise.",
+          "note": "Memakai terminal komputer luar yang terhubung jaringan untuk menjalankan program yang tak bisa dijalankan langsung.",
           "ruby": "Terminal Mode"
         },{
           "ctgr": "Chuunibyou",
           "name": "Organisasi",
-          "note": "Organisasi adalah Organisasi. Nothing more. Nothing less. Formal name-nya adalah something else, tapi even uttering nama itu adalah death wish. Untuk itu, semua yang tahu existence-nya sebut simply \"the Organization.\"",
+          "note": "Organisasi adalah Organisasi. Bukan lebih. Bukan kurang. Nama resminya lain, tapi menyebut nama itu saja sudah cari mati. Karena itu, semua yang tahu keberadaannya menyebutnya \"Organisasi.\"",
           "ruby": "Organisasi"
         },{
           "ctgr": "Lainnya",
           "name": "The Principle of Causality",
-          "note": "Scientific dan philosophical principle yang states bahwa tiap event punya cause, dan by cause itu effect produced. Teori relativity founded upon principle ini. Namun, quantum physicists observed micro-scale phenomena yang tidak appear obey principle of causality.",
+          "note": "Prinsip ilmiah dan filosofis yang menyatakan bahwa tiap peristiwa punya sebab, dan oleh sebab itu akibat dihasilkan. Teori relativitas berdiri di atas prinsip ini. Namun, fisikawan kuantum mengamati fenomena skala mikro yang tampaknya tak mematuhi prinsip kausalitas.",
           "ruby": "The Principle of Causality"
         },{
           "ctgr": "Lainnya",
           "name": "The Time Machine by H.G. Wells",
-          "note": "Pioneering work time travel fiction oleh British writer H.G. Wells. Published 1895, later received several screen adaptations.",
+          "note": "Karya perintis fiksi perjalanan waktu oleh penulis Inggris H.G. Wells. Terbit tahun 1895, kemudian beberapa kali diadaptasi ke layar.",
           "ruby": "The Time Machine by H.G. Wells"
         },{
           "ctgr": "Sains",
           "name": "Theory of Relativity",
-          "note": "Refer baik special theory of relativity Einstein published 1905, dan general theory of relativity published 1916. Represented famous equation, E=mc^2. Special theory of relativity defined axioms: \"Objects tak bisa travel faster daripada speed of light.\" \"As velocity approaches speed of light, passage of time approaches zero.\"\n\"As velocity approaches speed of light, length approaches zero.\" \"As velocity approaches speed of light, mass approaches infinity.\"\nGeneral theory of relativity adds axioms: \"In presence large gravitational fields, passage of time slows down.\" \"In presence large gravitational fields, space curves.\" \"In presence large gravitational fields, mass increases.\"",
+          "note": "Merujuk pada teori relativitas khusus Einstein yang diterbitkan tahun 1905, dan teori relativitas umum yang diterbitkan tahun 1916. Diwakili persamaan terkenal, E=mc^2. Teori relativitas khusus didefinisikan oleh aksioma-aksioma berikut: \"Benda tidak bisa bergerak lebih cepat dari kecepatan cahaya.\" \"Saat kecepatan mendekati kecepatan cahaya, berjalannya waktu mendekati nol.\"\n\"Saat kecepatan mendekati kecepatan cahaya, panjang mendekati nol.\" \"Saat kecepatan mendekati kecepatan cahaya, massa mendekati tak hingga.\"\nTeori relativitas umum menambahkan aksioma-aksioma berikut: \"Di dekat medan gravitasi besar, berjalannya waktu melambat.\" \"Di dekat medan gravitasi besar, ruang melengkung.\" \"Di dekat medan gravitasi besar, massa bertambah.\"",
           "ruby": "Theory of Relativity"
         },{
           "ctgr": "Lainnya",
           "name": "Time Capsule",
-          "note": "Sering found di elementary school classes dan like. Students akan place items seperti letters ke future selves atau prized objects ke large capsule container, lalu bury underground untuk unearthed ten ke twenty years later. Tidak banyak orang cenderung actually stick around untuk unearthing, meski.",
+          "note": "Sering ada di kelas sekolah dasar dan sejenisnya. Murid-murid akan taruh barang seperti surat untuk diri di masa depan atau benda kesayangan ke wadah kapsul besar, lalu kubur untuk digali sepuluh sampai dua puluh tahun kemudian. Sedikit yang benar-benar bertahan sampai penggalian, meski.",
           "ruby": "Time Capsule"
         },{
           "ctgr": "Lainnya",
           "name": "Time Machine",
-          "note": "Mesin yang makes possible travel back and forth antara past dan future. Proses ini called \"time travel,\" dan orang yang pakai proses ini called \"time traveler.\" Mesin seperti itu appear banyak science-fiction movies, manga, dan novels. Time machines vary form tergantung work of fiction, ranging vehicles ke specialized devices.",
+          "note": "Mesin yang memungkinkan perjalanan bolak-balik antara masa lalu dan masa depan. Proses ini disebut \"perjalanan waktu,\" dan orang yang memakai proses ini disebut \"penjelajah waktu.\" Mesin seperti itu muncul di banyak film fiksi ilmiah, manga, dan novel. Bentuk mesin waktu berbeda-beda tergantung karya fiksinya, mulai dari kendaraan sampai perangkat khusus.",
           "ruby": "Time Machine"
         },{
           "ctgr": "Lainnya",
           "name": "Time Paradox",
-          "note": "Kontradiksi caused saat seseorang time travels ke masa lalu dan takes actions yang change original course sejarah. Salah satu most famous examples adalah \"grandfather paradox.\" Kalau seseorang goes back waktu dan kills grandfather-nya sebelum mereka sendiri born, lalu tidak ada way mereka bisa existed untuk kill grandfather mereka sejak awal.\n\nSome pakai kontradiksi ini argue bahwa perjalanan waktu impossible. Banyak theories juga proposed sebagai counterpoints, tapi semua simply thought experiment.",
+          "note": "Kontradiksi yang muncul saat seseorang pergi ke masa lalu dan melakukan tindakan yang mengubah jalannya sejarah. Salah satu contoh paling terkenal adalah \"paradoks kakek.\" Kalau seseorang kembali ke masa lalu dan membunuh kakeknya sebelum mereka sendiri lahir, maka tak ada cara mereka bisa ada untuk membunuh kakeknya sejak awal.\n\nSebagian memakai kontradiksi ini untuk berargumen bahwa perjalanan waktu mustahil. Banyak teori juga diajukan sebagai tandingan, tapi semuanya sekadar eksperimen pikiran.",
           "ruby": "Time Paradox"
         },{
           "ctgr": "Sains",
           "name": "Tipler",
-          "note": "Frank Tipler. American physicist. Tahun 1974, dia proposed cylindrical time machine known Tipler cylinder. Mesin akan require rapidly rotating, infinitely long cylinder, sesuatu yang tak bisa exist di realitas sejak awal.",
+          "note": "Frank Tipler. Fisikawan Amerika. Tahun 1974, dia mengusulkan mesin waktu silinder yang dikenal sebagai silinder Tipler. Mesin itu butuh silinder berputar cepat yang panjangnya tak hingga, sesuatu yang memang tak bisa ada di dunia nyata.",
           "ruby": "Tipler"
         },{
           "ctgr": "Internet",
           "name": "TL;DR",
-          "note": "Shorthand \"too long; didn't read.\" Sering dipakai saat explanation too complicated atau kau simply tak bisa bothered baca semua.",
+          "note": "Singkatan \"too long; didn't read.\" Sering dipakai saat penjelasan terlalu rumit atau kau malas membaca semuanya.",
           "ruby": "TL;DR"
         },{
           "ctgr": "Lainnya",
           "name": "Tokyo Denki University",
-          "note": "Universitas di Kanda, Tokyo. Established 1949, awalnya electrical engineering school founded 1907. Dedicated thorough development science dan technology dengan educating scientists dan engineers. Founding principle-nya \"practicality is key,\" dan educational dan research ethos-nya \"People are technology.\" Karena lokasi campus-nya, punya close ties pengembangan electronics district Akihabara.",
+          "note": "Universitas di Kanda, Tokyo. Berdiri 1949, awalnya sekolah teknik elektro yang didirikan 1907. Didedikasikan untuk pengembangan sains dan teknologi lewat pendidikan ilmuwan dan insinyur. Prinsip pendiriannya \"kepraktisan adalah kunci,\" dan etos pendidikan dan risetnya \"Manusia adalah teknologi.\" Karena lokasi kampusnya, ia erat dengan perkembangan distrik elektronik Akihabara.",
           "ruby": "Tokyo Denki University"
         },{
           "ctgr": "Sains",
           "name": "Sinyal pengambilan ingatan top-down",
-          "note": "Neural pulse signals transmitted dari frontal lobe ke temporal lobe selama memory recall.",
+          "note": "Sinyal denyut saraf yang dikirim dari lobus frontal ke lobus temporal saat mengingat.",
           "ruby": "Sinyal pengambilan ingatan top-down"
         },{
           "ctgr": "Internet",
           "name": "Trolling",
-          "note": "Di internet, post controversial opinions atau false information untuk purpose provoking reaction.",
+          "note": "Di internet, memposting opini kontroversial atau informasi palsu dengan tujuan memancing reaksi.",
           "ruby": "Trolling"
         },{
           "ctgr": "Chuunibyou",
           "name": "True Name",
-          "note": "Nama yang describes true essence seseorang. Soul name.",
+          "note": "Nama yang menggambarkan hakikat sejati seseorang. Nama jiwa.",
           "ruby": "True Name"
         },{
           "ctgr": "Otaku",
           "name": "Tsundere",
-          "note": "Gadis yang biasanya aloof dan acerbic (tsun), tapi becomes affectionate (dere) saat alone dengan romantic interest-nya. Namun, definisi telah getting more broad belakangan.",
+          "note": "Gadis yang biasanya jutek dan ketus (tsun), tapi menjadi manja (dere) saat berduaan dengan orang yang disukainya. Namun, definisinya belakangan semakin meluas.",
           "ruby": "Tsundere"
         },{
           "ctgr": "Sains",
           "name": "Twin Paradox",
-          "note": "Menurut Special Theory of Relativity Einstein, time passes more slowly saat sesuatu approaches speed of light. Response ide ini, thought experiment proposed.\n\nSatu twin (\"traveling twin\") boards rocket capable traveling near-light speed dan departs dari Bumi, eventually returning. Dari perspective twin yang remained di Bumi (\"earth-bound twin\"), traveling twin, having traveled near-light speed, akan experience slower time progression dan therefore akan aged less daripada earth-bound twin.\n\nDari perspective traveling twin, bisa argued bahwa Bumi instead moving away near-light speed. Dalam kasus ini, time earth-bound twin yang progressing more slowly, meaning earth-bound twin harusnya aged less daripada traveling twin.\n\nResolution conundrum ini adalah time dilation occurs hanya selama accelerated motion, dan thus tidak akan apply ke inertial motion Bumi. Therefore paradox dianggap invalid.",
+          "note": "Menurut Teori Relativitas Khusus Einstein, waktu berjalan lebih lambat saat sesuatu mendekati kecepatan cahaya. Menanggapi gagasan ini, sebuah eksperimen pikiran diajukan.\n\nSatu anak kembar (\"kembar pengelana\") menaiki roket yang mampu melaju mendekati kecepatan cahaya dan berangkat dari Bumi, lalu akhirnya kembali. Dari sudut pandang kembaran yang tinggal di Bumi (\"kembar yang di Bumi\"), si kembar pengelana yang melaju mendekati kecepatan cahaya akan mengalami berjalannya waktu yang lebih lambat sehingga usianya bertambah lebih sedikit daripada kembar yang di Bumi.\n\nDari sudut pandang kembar pengelana, bisa diperdebatkan bahwa justru Bumilah yang bergerak menjauh mendekati kecepatan cahaya. Dalam hal ini, waktunya si kembar yang di Bumi yang berjalan lebih lambat, artinya si kembar yang di Bumi seharusnya berusia lebih sedikit daripada si kembar pengelana.\n\nJawaban teka-teki ini adalah dilasi waktu hanya terjadi selama gerak dipercepat, sehingga tidak berlaku bagi gerak inersia Bumi. Karena itu paradoks ini dianggap tidak valid.",
           "ruby": "Twin Paradox"
         },{
           "ctgr": "Internet",
           "name": "U",
-          "note": "Net slang. Shortened version \"you.\"",
+          "note": "Slang internet. Versi pendek \"you\" (kamu).",
           "ruby": "U"
         },{
           "ctgr": "Otaku",
           "name": "Upa",
-          "note": "Karakter mascot dari TV anime RaiNet Access Battlers. Virtual pet dengan rotund body, short limbs, dan dog-like appearance. Muncul variety colors. Meski tidak speak, mampu communicate intentions lewat gestures dan vocalizations seperti \"Upa?\" dan \"Upa!\".",
+          "note": "Karakter maskot dari anime TV RaiNet Access Battlers. Hewan peliharaan virtual bertubuh bulat, berkaki pendek, dan berpenampilan seperti anjing. Muncul dalam berbagai warna. Meski tidak bicara, ia bisa menyampaikan maksud lewat gerak-gerik dan suara seperti \"Upa?\" dan \"Upa!\".",
           "ruby": "Upa"
         },{
           "ctgr": "Akihabara",
           "name": "UPX",
-          "note": "Major office building di Akihabara.",
+          "note": "Gedung perkantoran besar di Akihabara.",
           "ruby": "UPX"
         },{
           "ctgr": "Sains",
           "name": "Urashima Effect",
-          "note": "Di Special Relativity, phenomenon originating dari fakta bahwa time slows down saat object approaches speed of light. Misalnya, bayangkan bahwa astronaut travels ke nearby star dan back close speed of light. Trip ini mungkin take beberapa tahun dari perspective astronaut, tapi dia akan return ke Bumi temukan bahwa thousands tahun telah passed in absence-nya.",
+          "note": "Dalam Relativitas Khusus, fenomena yang berasal dari fakta bahwa waktu melambat saat benda mendekati kecepatan cahaya. Misalnya, bayangkan seorang antariksawan pergi ke bintang terdekat dan kembali dengan kecepatan mendekati cahaya. Perjalanan ini mungkin memakan beberapa tahun dari sudut pandang antariksawan, tapi saat kembali ke Bumi dia akan mendapati ribuan tahun telah berlalu selama dia pergi.",
           "ruby": "Urashima Effect"
         },{
           "ctgr": "Lainnya",
           "name": "Urban Legend",
-          "note": "Rumors yang largely emerged starting abad 20 dengan ambiguous origins. Treated distinct dari traditional ghost stories, occult, atau folklore, boundaries antara categories ini telah become increasingly blurred over time.\n\nUrban legends range light anecdotes ke frightening dan scary tales. Banyak told seolah real events yang actually happened. Well-known examples include Hanako of the Toilet, The Corpse-Washer Job, dan Men in Black.",
+          "note": "Rumor yang sebagian besar muncul mulai abad ke-20 dengan asal-usul yang tidak jelas. Diperlakukan berbeda dari kisah hantu tradisional, okultisme, atau cerita rakyat, batas-batas antar kategori ini semakin kabur seiring waktu.\n\nLegenda urban berkisar dari anekdot ringan sampai kisah menakutkan yang menyeramkan. Banyak yang diceritakan seolah-olah peristiwa nyata yang benar-benar terjadi. Contoh terkenalnya termasuk Hanako si Hantu Toilet, Pekerjaan Pencuci Mayat, dan Men in Black.",
           "ruby": "Urban Legend"
         },{
           "ctgr": "Chuunibyou",
           "name": "Urd",
-          "note": "Eldest three Norns (goddesses of fate) di Norse mythology. Three sisters tend world tree, Yggdrasil, yang punya roots di Urd's fountain. Urd adalah Norn of the Past.",
+          "note": "Yang tertua dari tiga Norn (dewi-dewi takdir) dalam mitologi Nordik. Tiga bersaudari ini merawat pohon dunia, Yggdrasil, yang akarnya berada di mata air Urd. Urd adalah Norn Masa Lalu.",
           "ruby": "Urd"
         },{
           "ctgr": "Internet",
           "name": "URL",
-          "note": "Uniform Resource Locator. Address di internet yang indicates location resource.",
+          "note": "Uniform Resource Locator. Alamat di internet yang menunjukkan lokasi suatu sumber daya.",
           "ruby": "URL"
         },{
           "ctgr": "Chuunibyou",
           "name": "Verthandi",
-          "note": "Second three Norns (sister goddesses of fate) di Norse mythology. Three sisters tend world tree, Yggdrasil, yang roots lie di Urd's fountain. Verthandi adalah Norn of the Present. Popularized di Jepang oleh certain Goddess! manga.",
+          "note": "Yang kedua dari tiga Norn (dewi-dewi takdir bersaudara) dalam mitologi Nordik. Tiga bersaudari ini merawat pohon dunia, Yggdrasil, yang akarnya berada di mata air Urd. Verthandi adalah Norn Masa Kini. Dipopulerkan di Jepang oleh sebuah manga Dewi tertentu.",
           "ruby": "Verthandi"
         },{
           "ctgr": "Internet",
           "name": "VIP",
-          "note": "\"Newsflash VIP Board\" @channel. Meski ostensibly untuk discussion news stories, kini dominated idle chat threads.",
+          "note": "Papan \"Newsflash VIP\" @channel. Meski katanya untuk diskusi berita, kini didominasi utas obrolan santai.",
           "ruby": "VIP"
         },{
           "ctgr": "Otaku",
           "name": "Waifu",
-          "note": "Net slang. Most dearly beloved fictional 2D character otaku. Gender baik otaku maupun chosen 2D character tidak matter. Waifu adalah waifu.\nTidak ada limit berapa waifus bisa hoard, dan tidak uncommon orang punya multiple.",
+          "note": "Slang internet. Karakter fiksi 2D yang paling dicintai otaku. Gender otaku maupun karakter 2D pilihannya tidak penting. Waifu ya waifu.\nTidak ada batas berapa waifu bisa dikoleksi, dan orang punya banyak bukan hal aneh.",
           "ruby": "Waifu"
         },{
           "ctgr": "Sains",
           "name": "Wave Function",
-          "note": "Di quantum theory, function representing quantum state. Scientists tidak sure apa wave functions represent reality atau convenient mathematical abstraction describe yang goes on di quantum mechanics.",
+          "note": "Dalam teori kuantum, fungsi yang menyatakan keadaan kuantum. Para ilmuwan belum yakin apakah fungsi gelombang menyatakan kenyataan atau hanya abstraksi matematis yang praktis untuk menjelaskan apa yang terjadi dalam mekanika kuantum.",
           "ruby": "Wave Function"
         },{
           "ctgr": "Sains",
           "name": "White Hole",
-          "note": "Reverse black hole. Sementara nothing bisa escape black hole, everything ejected dari white hole. Existence white holes hinted theoretically, tapi actual proof impossible. Tak pernah observed.",
+          "note": "Kebalikan dari black hole. Jika tak ada yang bisa lolos dari black hole, segalanya justru terlontar dari white hole. Keberadaan white hole disiratkan secara teoretis, tapi pembuktian nyatanya mustahil. Belum pernah teramati.",
           "ruby": "White Hole"
         },{
           "ctgr": "Lainnya",
           "name": "Wig",
-          "note": "False hair, sering worn either fashionable atau medical purposes.",
+          "note": "Rambut palsu, sering dipakai untuk gaya atau keperluan medis.",
           "ruby": "Wig"
         },{
           "ctgr": "Internet",
           "name": "Wiki",
-          "note": "Online system untuk creation dan compilation hypertext documents di web server.",
+          "note": "Sistem online untuk membuat dan menyusun dokumen hiperteks di server web.",
           "ruby": "Wiki"
         },{
           "ctgr": "Internet",
           "name": "Wizard",
-          "note": "Mereka bilang di internet bahwa kalau remain virgin past age 30, akan turn jadi wizard. Said bahwa dengan deeper discipline, mungkin even evolve further beyond jadi fairy.",
+          "note": "Konon di internet, kalau masih perjaka melewati usia 30, akan berubah menjadi wizard. Katanya dengan laku yang lebih dalam, bahkan bisa berevolusi lebih jauh menjadi fairy.",
           "ruby": "Wizard"
         },{
           "ctgr": "Chuunibyou",
           "name": "Wizard-tier",
-          "note": "Highly skilled hackers exceptional skill, wielding computational power seolah magic. Tidak ada official criteria apa constitutes Wizard-tier hacker, dan definisi vague best.",
+          "note": "Hacker yang sangat terampil dengan kemampuan luar biasa, mengendalikan daya komputasi seolah-olah sihir. Tidak ada kriteria resmi untuk apa yang disebut hacker kelas Wizard, dan definisinya paling banter samar-samar.",
           "ruby": "Wizard-tier"
         },{
           "ctgr": "Internet",
           "name": "World Wide Web",
-          "note": "Abbreviated WWW. Juga simply called \"web.\" Standardized document system dipakai di internet.",
+          "note": "Singkatan WWW. Juga disebut \"web.\" Sistem dokumen standar di internet.",
           "ruby": "World Wide Web"
         },{
           "ctgr": "Lainnya",
           "name": "Worldline",
-          "note": "Istilah given countless possible worlds yang tidak exist simultaneously sebagai parallel worlds. Hanya single worldline exists any given time, dan semua events past ke future sudah determined dalam given worldline. No matter how much past changed dalam worldline, events akan converge same outcome.",
+          "note": "Sebutan bagi dunia-dunia mungkin yang tak terhitung, yang tidak ada berdampingan sebagai dunia paralel. Hanya satu garis dunia yang ada pada suatu saat, dan semua peristiwa dari masa lalu sampai masa depan sudah ditentukan dalam garis dunia itu. Sebanyak apa pun masa lalu diubah dalam suatu garis dunia, peristiwa-peristiwa akan bertemu pada hasil yang sama.",
           "ruby": "Worldline"
         },{
           "ctgr": "Internet",
           "name": "Would",
-          "note": "Dipakai sendiri refer sesuatu atau seseorang yang kau would want lakukan certain things with.",
+          "note": "Dipakai sendiri untuk merujuk sesuatu atau seseorang yang ingin kau setubuhi.",
           "ruby": "Would"
         },{
           "ctgr": "Lainnya",
           "name": "X68000",
-          "note": "16-bit PC dijual Jepang late 1980s. Peculiar twin tower case dubbed \"Manhattan-shaped.\"",
+          "note": "PC 16-bit yang dijual di Jepang akhir 1980-an. Casing menara kembarnya yang aneh dijuluki \"berbentuk Manhattan.\"",
           "ruby": "X68000"
         },{
           "ctgr": "Lainnya",
           "name": "X-Ray",
-          "note": "Jenis electromagnetic wave discovered Wilhelm Rontgen tahun 1895. Famous applications medicine.",
+          "note": "Jenis gelombang elektromagnetik yang ditemukan Wilhelm Rontgen tahun 1895. Terkenal untuk pemakaian medis.",
           "ruby": "X-Ray"
         },{
           "ctgr": "Akihabara",
           "name": "Kuil Yanabayashi",
-          "note": "Kuil found di Akihabara. Setelah cross Manseibashi, head down side street, pass beneath railway tracks, dan follow river. Various stray cats call shrine grounds home. Keluarga Urushibara Luka runs tempat.",
+          "note": "Kuil di Akihabara. Setelah menyeberang Manseibashi, susuri gang, lewati bawah rel kereta, dan ikuti sungai. Berbagai kucing liar menjadikan pekarangan kuil rumahnya. Keluarga Urushibara Luka yang mengelola.",
           "ruby": "Kuil Yanabayashi"
         },{
           "ctgr": "Lainnya",
           "name": "Year 2000 Problem",
-          "note": "Popularly known Y2K bug. At turn 21st Century, ada concern possibility widespread computer failure saat tahun turned 2000. Untuk save memory space, old operating systems hampir selalu abbreviated years ke final two digits. Hence, saat 1999 changed ke 2000, last two digits akan change 99 ke 00.\nKalau programming-nya tidak anticipate change itu, komputer bisa erroneously assume tahun 1900. Rumored bahwa computers di military, financial, dan government sectors mungkin malfunction dan cause worldwide catastrophe. Untuk address issue ini, countermeasures taken mid 1990s untuk manually update tiap program. Hasil countermeasures ini, Year 2000 problem averted.",
+          "note": "Dikenal sebagai bug Y2K. Pada pergantian Abad ke-21, ada kekhawatiran kemungkinan gagal komputer massal saat tahun berubah jadi 2000. Untuk hemat memori, sistem operasi lama hampir selalu menyingkat tahun jadi dua digit terakhir. Makanya, saat 1999 berubah ke 2000, dua digit terakhir berubah dari 99 ke 00.\nKalau programnya tidak mengantisipasi perubahan itu, komputer bisa salah mengira tahun 1900. Dirumorkan komputer di sektor militer, finansial, dan pemerintah bisa rusak dan sebabkan bencana dunia. Untuk atasi masalah ini, penanggulangan dilakukan pertengahan 1990-an untuk perbarui manual tiap program. Berkat itu, masalah Tahun 2000 terhindarkan.",
           "ruby": "Year 2000 Problem"
         },{
           "ctgr": "Otaku",
           "name": "Yuri",
-          "note": "Homosexual romance antara women, atau works fiksi depicting such.",
+          "note": "Romansa homoseksual antar wanita, atau karya fiksi yang menggambarkannya.",
           "ruby": "Yuri"
         },{
           "ctgr": "Lainnya",
           "name": "Zombie",
-          "note": "Istilah awalnya referred animated thrall controlled Voodoo sorcerers. Starting 1930-an, konsep dipakai horror films primarily, tapi mulai branch out multimedia usage 1990-an.",
+          "note": "Istilah yang awalnya merujuk pada budak hidup yang dikendalikan penyihir Voodoo. Mulai 1930-an, konsep ini dipakai terutama dalam film horor, tapi mulai merambah ke pemakaian multimedia pada 1990-an.",
           "ruby": "Zombie"
         },{
           "ctgr": "Internet",
           "name": ".jpg",
-          "note": "File extension. Kadang dipakai conversation untuk punctuate point atau feeling.",
+          "note": "Ekstensi berkas. Kadang dipakai dalam percakapan untuk menegaskan maksud atau perasaan.",
           "ruby": ".jpg"
         },{
           "ctgr": "Internet",
           "name": "@channel",
-          "note": "Message board paling populer Jepang. Covers wide variety topics dari hacking ke cooking ke anime ke current events.",
+          "note": "Papan pesan paling populer di Jepang. Mencakup berbagai topik dari hacking sampai masak sampai anime sampai berita terkini.",
           "ruby": "@channel"
         },{
           "ctgr": "Lainnya",
           "name": "1.21 Jigowatts",
-          "note": "Originates dari 1980s trilogy Hollywood movies soal time machines dan time paradoxes. Di first movie, inventor time machine bilang bahwa butuh \"1.21 jigowatts\" power untuk travel lewat waktu. Realitasnya, unit \"jigowatt\" tidak exist. Scriptwriter buat spelling mistake. Correct unit gigawatt.",
+          "note": "Berasal dari trilogi film Hollywood 1980-an soal mesin waktu dan paradoks waktu. Di film pertama, penemu mesin waktu bilang butuh daya \"1,21 jigowatt\" untuk perjalanan waktu. Kenyataannya, satuan \"jigowatt\" tidak ada. Penulis naskah salah eja. Satuan yang benar adalah gigawatt.",
           "ruby": "1.21 Jigowatts"
         },{
           "ctgr": "Otaku",
           "name": "2D Girl",
-          "note": "Female character di anime, game, atau manga.",
+          "note": "Karakter wanita di anime, gim, atau manga.",
           "ruby": "2D Girl"
         },{
           "ctgr": "Sains",
           "name": "4D",
-          "note": "Four-dimensional space-time comprised tiga spatial dimensions plus fourth dimension, Time. Three-dimensional beings, seperti humans, hanya bisa move tiga spatial dimensions. Four-dimensional being akan bisa move lewat waktu semudah humans move lewat air.",
+          "note": "Ruang-waktu empat dimensi terdiri dari tiga dimensi ruang plus dimensi keempat, Waktu. Makhluk tiga dimensi, seperti manusia, hanya bisa bergerak dalam tiga dimensi ruang. Makhluk empat dimensi bisa bergerak lewat waktu semudah manusia bergerak lewat udara.",
           "ruby": "4D"
         },{
           "ctgr": "Lainnya",
           "name": "98",
-          "note": "Japanese PC series dijual mid 1980s ke mid 1990s. Sold sangat well sampai at one point, called \"the national computer.\"",
+          "note": "Seri PC Jepang yang dijual dari pertengahan 1980-an sampai pertengahan 1990-an. Saking larisnya, seri ini sempat dijuluki \"komputer nasional.\"",
           "ruby": "98"
         }]
     },{
