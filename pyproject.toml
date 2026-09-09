@@ -1,0 +1,28 @@
+[project]
+name = "sgre"
+version = "0.1.0"
+description = "STEINS;GATE RE:BOOT i18n pipeline"
+requires-python = ">=3.10"
+dependencies = [
+  "typer>=0.9",
+  "pydantic>=2",
+  "rich>=13",
+  "zstd>=1.5",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.16"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build]
+artifacts = []
+force-include = { "tools/sgre" = "sgre" }
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+target-version = "py310"

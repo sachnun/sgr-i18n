@@ -1,6 +1,5 @@
 import hashlib
 import struct
-import sys
 
 import zstd
 
@@ -10,16 +9,18 @@ MAGIC = b"mzs\x00"
 ZSTD_MAGIC = b"\x28\xb5\x2f\xfd"
 
 
-def _init_by_array(seeds):
+def _init_by_array(seeds: list[int]) -> tuple[list[int], int]:
     n = 624
-    mt = [0] * n
+    mt: list[int] = [0] * n
     mt[0] = 19650218
     for i in range(1, n):
         mt[i] = (1812433253 * (mt[i - 1] ^ (mt[i - 1] >> 30)) + i) & 0xFFFFFFFF
     i, j = 1, 0
     k = max(n, len(seeds))
     for _ in range(k):
-        mt[i] = ((mt[i] ^ ((mt[i - 1] ^ (mt[i - 1] >> 30)) * 1664525)) + seeds[j] + j) & 0xFFFFFFFF
+        mt[i] = (
+            (mt[i] ^ ((mt[i - 1] ^ (mt[i - 1] >> 30)) * 1664525)) + seeds[j] + j
+        ) & 0xFFFFFFFF
         i += 1
         j += 1
         if i >= n:
@@ -28,7 +29,9 @@ def _init_by_array(seeds):
         if j >= len(seeds):
             j = 0
     for _ in range(n - 1):
-        mt[i] = ((mt[i] ^ ((mt[i - 1] ^ (mt[i - 1] >> 30)) * 1566083941)) - i) & 0xFFFFFFFF
+        mt[i] = (
+            (mt[i] ^ ((mt[i - 1] ^ (mt[i - 1] >> 30)) * 1566083941)) - i
+        ) & 0xFFFFFFFF
         i += 1
         if i >= n:
             mt[0] = mt[n - 1]
@@ -37,7 +40,7 @@ def _init_by_array(seeds):
     return mt, n
 
 
-def _twist(mt, n):
+def _twist(mt: list[int], n: int) -> None:
     for i in range(n):
         y = (mt[i] & 0x80000000) | (mt[(i + 1) % n] & 0x7FFFFFFF)
         mt[i] = mt[(i + 397) % n] ^ (y >> 1)
@@ -45,7 +48,7 @@ def _twist(mt, n):
             mt[i] ^= 0x9908B0DF
 
 
-def _keystream(seed, length=KEY_LEN):
+def keystream(seed: str, length: int = KEY_LEN) -> bytes:
     digest = hashlib.md5(seed.encode("utf-8")).digest()
     seeds = list(struct.unpack("<4I", digest))
     mt, n = _init_by_array(seeds)
@@ -65,21 +68,21 @@ def _keystream(seed, length=KEY_LEN):
     return bytes(out[:length])
 
 
-def pack_mzs(plain, filename, level=22):
+def pack_mzs(plain: bytes, filename: str, level: int = 22) -> bytes:
     comp = zstd.compress(plain, level)
     buf = bytearray(MAGIC + struct.pack("<i", len(plain)) + comp)
-    ks = _keystream(BASE_KEY + filename)
+    ks = keystream(BASE_KEY + filename)
     for i in range(8, len(buf)):
         buf[i] ^= ks[(i - 8) % len(ks)]
     return bytes(buf)
 
 
-def unpack_mzs(packed, filename):
+def unpack_mzs(packed: bytes, filename: str) -> bytes:
     if packed[:4] != MAGIC:
         raise ValueError("bad MZS magic")
     (plain_len,) = struct.unpack("<i", packed[4:8])
     buf = bytearray(packed)
-    ks = _keystream(BASE_KEY + filename)
+    ks = keystream(BASE_KEY + filename)
     for i in range(8, len(buf)):
         buf[i] ^= ks[(i - 8) % len(ks)]
     if bytes(buf[8:12]) != ZSTD_MAGIC:
@@ -90,17 +93,9 @@ def unpack_mzs(packed, filename):
     return plain
 
 
-def main():
-    mode, path = sys.argv[1], sys.argv[2]
-    name = sys.argv[3] if len(sys.argv) > 3 else path.split("/")[-1].split("\\")[-1]
-    data = open(path, "rb").read()
-    if mode == "pack":
-        sys.stdout.buffer.write(pack_mzs(data, name))
-    elif mode == "unpack":
-        sys.stdout.buffer.write(unpack_mzs(data, name))
-    else:
-        raise SystemExit("usage: mzs.py pack|unpack FILE [FILENAME]")
+def pack_file(data: bytes, filename: str, level: int = 22) -> bytes:
+    return pack_mzs(data, filename, level)
 
 
-if __name__ == "__main__":
-    main()
+def unpack_file(data: bytes, filename: str) -> bytes:
+    return unpack_mzs(data, filename)
