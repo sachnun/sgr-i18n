@@ -1,14 +1,16 @@
 param(
-  [string]$RepoDir = "C:\tools\steins-gate-rb-tl",
-  [string]$StagingDir = "C:\Users\sachn\AppData\Local\Temp\sgre_repack\scenario",
-  [string]$CompiledDir = "C:\Users\sachn\AppData\Local\Temp\sgre_out",
-  [string]$FinalDir = "C:\Users\sachn\AppData\Local\Temp\sgre_final",
+  [string]$RepoDir = (Split-Path $PSScriptRoot -Parent),
+  [string]$WorkDir = (Join-Path ([IO.Path]::GetTempPath()) "sgre_repack"),
   [string]$GameDir = "",
   [string]$Key = "Rk3nwA8ZYV0yV",
   [string]$KeyLen = "131",
   [string]$Level = "22"
 )
 $ErrorActionPreference = "Stop"
+$StagingDir = Join-Path $WorkDir "scenario"
+$CompiledDir = Join-Path ([IO.Path]::GetTempPath()) "sgre_out"
+$FinalDir = Join-Path ([IO.Path]::GetTempPath()) "sgre_final"
+New-Item -ItemType Directory -Force -Path $StagingDir, $FinalDir | Out-Null
 Copy-Item "$CompiledDir\*.scn.m" $StagingDir -Force
 & "$RepoDir\tools\rebuild\FullRebuild.exe" "$RepoDir\assets\info.plain.psb" $StagingDir "$FinalDir\scenario_body.bin" "$FinalDir\scenario_info.psb.m" $Key $Level
 if ($GameDir -ne "") {

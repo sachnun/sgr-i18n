@@ -1,9 +1,11 @@
 param(
-  [string]$GameDir = "D:\STEINS-GATE-REBOOT-AnkerGames\STEINS GATE REBOOT\wind3d11data",
-  [string]$WorkDir = "C:\Users\sachn\AppData\Local\Temp\sgre_data",
-  [string]$ToolsDir = "C:\tools\steins-gate-rb-tl\tools\freemote"
+  [string]$GameDir = "",
+  [string]$WorkDir = (Join-Path ([IO.Path]::GetTempPath()) "sgre_data"),
+  [string]$RepoDir = (Split-Path $PSScriptRoot -Parent)
 )
 $ErrorActionPreference = "Stop"
+if ($GameDir -eq "") { throw "GameDir is required. Example: -GameDir 'D:\Games\STEINS GATE REBOOT\wind3d11data'" }
+$ToolsDir = Join-Path $RepoDir "tools\freemote"
 $Key = "Rk3nwA8ZYV0yV"
 $KeyLen = 131
 New-Item -ItemType Directory -Force -Path "$WorkDir\scenario" | Out-Null

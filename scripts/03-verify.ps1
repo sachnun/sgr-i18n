@@ -1,11 +1,12 @@
 param(
-  [string]$FinalDir = "C:\Users\sachn\AppData\Local\Temp\sgre_final",
-  [string]$ToolsDir = "C:\tools\steins-gate-rb-tl\tools\freemote",
+  [string]$RepoDir = (Split-Path $PSScriptRoot -Parent),
+  [string]$FinalDir = (Join-Path ([IO.Path]::GetTempPath()) "sgre_final"),
   [string]$CheckFile = "resg11_08.ks.scn.m",
   [string]$Key = "Rk3nwA8ZYV0yV",
   [string]$KeyLen = 131
 )
 $ErrorActionPreference = "Stop"
+$ToolsDir = Join-Path $RepoDir "tools\freemote"
 $tmp = Join-Path ([IO.Path]::GetTempPath()) "sgre_verify"
 New-Item -ItemType Directory -Force -Path $tmp | Out-Null
 & "$ToolsDir\PsbDecompile.exe" info-psb -k $Key -l $KeyLen -o $tmp "$FinalDir\scenario_info.psb.m"
