@@ -10,5 +10,8 @@ jobs:
       - uses: astral-sh/setup-uv@v5
       - run: uv sync
       - run: uv run pytest -q
+      - run: uv run ruff check tools tests
+      - run: uv run ruff format --check tools tests
       - run: uv run python -m sgre validate --translations-dir tests/fixtures/valid
+      - run: uv run python -m sgre validate
       - run: uv run python -m sgre --help

@@ -1,7 +1,5 @@
 from pathlib import Path
 
-BASE_KEY = "Rk3nwA8ZYV0yV"
-KEY_LEN = 131
 MZS_LEVEL = 22
 
 SCENARIO_CONFIG_FILES = ["text", "maildata", "maildoc", "tips"]

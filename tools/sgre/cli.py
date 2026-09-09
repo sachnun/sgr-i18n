@@ -10,6 +10,7 @@ from rich.progress import Progress
 
 from . import config as cfg
 from . import freemote as fm
+from . import mzs
 from . import tolgee as tg
 from . import validate as vd
 from . import xdelta as xd
@@ -37,8 +38,8 @@ def extract(
     repo = _repo(repo_dir)
     work = Path(work_dir) if work_dir else Path(tempfile.gettempdir()) / "sgre_data"
     game = Path(game_dir)
-    tools_key = cfg.BASE_KEY
-    key_len = str(cfg.KEY_LEN)
+    tools_key = mzs.BASE_KEY
+    key_len = str(mzs.KEY_LEN)
     scenario_work = work / "scenario"
     scenario_work.mkdir(parents=True, exist_ok=True)
     for name in ("scenario_body.bin", "scenario_info.psb.m"):
@@ -61,7 +62,11 @@ def validate_cmd(
     repo_dir: str = typer.Option("", help="repo root"),
 ) -> None:
     repo = _repo(repo_dir)
-    tdir = Path(translations_dir) if translations_dir else cfg.default_translations_dir(repo)
+    tdir = (
+        Path(translations_dir)
+        if translations_dir
+        else cfg.default_translations_dir(repo)
+    )
     issues = vd.validate_translations(tdir)
     vd.print_issues(issues)
     if issues:
@@ -76,10 +81,14 @@ def compile_cmd(
 ) -> None:
     fm.require_windows()
     repo = _repo(repo_dir)
-    tdir = Path(translations_dir) if translations_dir else cfg.default_scenario_dir(repo)
+    tdir = (
+        Path(translations_dir) if translations_dir else cfg.default_scenario_dir(repo)
+    )
     out = Path(out_dir) if out_dir else Path(tempfile.gettempdir()) / "sgre_out"
     out.mkdir(parents=True, exist_ok=True)
-    files = sorted([p for p in tdir.glob("*.scn.m.json") if not p.name.endswith(".resx.json")])
+    files = sorted(
+        [p for p in tdir.glob("*.scn.m.json") if not p.name.endswith(".resx.json")]
+    )
     if not files:
         raise typer.BadParameter(f"no *.scn.m.json in {tdir}")
     exe = fm.psbuild_exe(repo)
@@ -96,14 +105,14 @@ def compile_cmd(
         task = progress.add_task("compile", total=len(files))
         with concurrent.futures.ThreadPoolExecutor() as pool:
             futures = {pool.submit(build_one, f): f for f in files}
-            for fut in concurrent.futures.as_completed(futures):
-                src = futures[fut]
-                try:
+            try:
+                for fut in concurrent.futures.as_completed(futures):
                     base = fut.result()
                     console.print(f"BUILD {base}")
-                except RuntimeError as exc:
-                    raise RuntimeError(f"compile failed for {src}: {exc}")
-                progress.advance(task)
+                    progress.advance(task)
+            except RuntimeError as exc:
+                pool.shutdown(wait=False, cancel_futures=True)
+                raise RuntimeError(f"compile failed: {exc}") from exc
     console.print("[green]compile done[/green]")
 
 
@@ -112,7 +121,7 @@ def rebuild(
     repo_dir: str = typer.Option("", help="repo root"),
     work_dir: str = typer.Option("", help="repack work folder"),
     game_dir: str = typer.Option("", help="wind3d11data folder for deploy"),
-    key: str = typer.Option(cfg.BASE_KEY),
+    key: str = typer.Option(mzs.BASE_KEY),
     level: str = typer.Option(str(cfg.MZS_LEVEL)),
 ) -> None:
     fm.require_windows()
@@ -131,7 +140,14 @@ def rebuild(
     seed = cfg.assets_dir(repo) / "info.plain.psb"
     if not seed.exists():
         raise RuntimeError(f"missing seed {seed}")
-    fm.run_full_rebuild(seed, staging, final / "scenario_body.bin", final / "scenario_info.psb.m", key, level)
+    fm.run_full_rebuild(
+        seed,
+        staging,
+        final / "scenario_body.bin",
+        final / "scenario_info.psb.m",
+        key,
+        level,
+    )
     if game_dir:
         game = Path(game_dir)
         shutil.copy2(final / "scenario_body.bin", game / "scenario_body.bin")
@@ -144,8 +160,8 @@ def rebuild(
 def verify(
     final_dir: str = typer.Option("", help="final folder with rebuilt archives"),
     check_file: str = typer.Option("resg11_08.ks.scn.m", help="spot check file"),
-    key: str = typer.Option(cfg.BASE_KEY),
-    key_len: int = typer.Option(cfg.KEY_LEN),
+    key: str = typer.Option(mzs.BASE_KEY),
+    key_len: int = typer.Option(mzs.KEY_LEN),
     repo_dir: str = typer.Option("", help="repo root"),
 ) -> None:
     fm.require_windows()
@@ -184,7 +200,11 @@ def verify(
     if target.exists():
         fm.run_psb_decompile([str(scenario_tmp / check_file)], repo)
         data = json.loads(target.read_text(encoding="utf-8"))
-        count = sum(len(s.get("texts", [])) for s in data.get("scenes", []) if isinstance(s, dict))
+        count = sum(
+            len(s.get("texts", []))
+            for s in data.get("scenes", [])
+            if isinstance(s, dict)
+        )
         console.print(f"{check_file} texts={count}")
         try:
             sample = data["scenes"][0]["texts"][0][1][1][1]
@@ -215,11 +235,19 @@ def config_assemble(
         fm.run_psbuild(src, dest, repo)
     existing = sorted(p.name for p in stage.glob("*.psb.m"))
     console.print(f"staged: {existing}")
-    console.print("copy the remaining 17 files from a config extract into stage, then run:")
-    console.print("  sgre pack <file> <filename> for each staged file")
+    console.print(
+        "copy the remaining 17 files from a config extract into stage, then run:"
+    )
+    console.print(
+        "  sgre pack <staged file> <archive filename> --out <staged file> for each staged file"
+    )
     console.print("  patch file_info offsets in config_info.plain.psb, then")
-    console.print("  sgre pack config_info.new.plain.psb config_info.psb.m")
-    console.print("FullRebuild.exe is scenario-only (hardcoded .scn.m mapping + scenario info seed).")
+    console.print(
+        "  sgre pack config_info.new.plain.psb config_info.psb.m --out config_info.psb.m"
+    )
+    console.print(
+        "FullRebuild.exe is scenario-only (hardcoded .scn.m mapping + scenario info seed)."
+    )
     if game_dir:
         final = work / "cfinal2"
         body = final / "config_body.bin"
@@ -229,6 +257,8 @@ def config_assemble(
             shutil.copy2(body, game / "config_body.bin")
             shutil.copy2(info, game / "config_info.psb.m")
             console.print(f"deployed to {game_dir}")
+        else:
+            console.print(f"[yellow]deploy skipped: missing {body} or {info}[/yellow]")
     console.print("[green]config assemble done[/green]")
 
 
@@ -277,9 +307,25 @@ def pipeline(
     vd.print_issues(issues)
     if issues:
         raise typer.Exit(code=1)
-    compile_cmd(translations_dir=str(cfg.default_scenario_dir(repo)), out_dir="", repo_dir=str(repo))
-    rebuild(repo_dir=str(repo), work_dir="", game_dir="", key=cfg.BASE_KEY, level=str(cfg.MZS_LEVEL))
-    verify(final_dir="", check_file="resg11_08.ks.scn.m", key=cfg.BASE_KEY, key_len=cfg.KEY_LEN, repo_dir=str(repo))
+    compile_cmd(
+        translations_dir=str(cfg.default_scenario_dir(repo)),
+        out_dir="",
+        repo_dir=str(repo),
+    )
+    rebuild(
+        repo_dir=str(repo),
+        work_dir="",
+        game_dir="",
+        key=mzs.BASE_KEY,
+        level=str(cfg.MZS_LEVEL),
+    )
+    verify(
+        final_dir="",
+        check_file="resg11_08.ks.scn.m",
+        key=mzs.BASE_KEY,
+        key_len=mzs.KEY_LEN,
+        repo_dir=str(repo),
+    )
     if game_dir:
         final = Path(tempfile.gettempdir()) / "sgre_final"
         game = Path(game_dir)
@@ -324,7 +370,11 @@ def tolgee_export(
     repo_dir: str = typer.Option("", help="repo root"),
 ) -> None:
     repo = _repo(repo_dir)
-    tdir = Path(translations_dir) if translations_dir else cfg.default_translations_dir(repo)
+    tdir = (
+        Path(translations_dir)
+        if translations_dir
+        else cfg.default_translations_dir(repo)
+    )
     out_path = Path(out)
     if not out_path.is_absolute():
         out_path = repo / out_path
@@ -339,6 +389,10 @@ def tolgee_import(
     repo_dir: str = typer.Option("", help="repo root"),
 ) -> None:
     repo = _repo(repo_dir)
-    tdir = Path(translations_dir) if translations_dir else cfg.default_translations_dir(repo)
+    tdir = (
+        Path(translations_dir)
+        if translations_dir
+        else cfg.default_translations_dir(repo)
+    )
     count = tg.import_translations(tdir, Path(input))
     console.print(f"updated {count} entries")

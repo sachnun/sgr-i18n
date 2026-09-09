@@ -12,7 +12,9 @@ SHA_FILENAME = "SHA256SUMS"
 def require_xdelta() -> str:
     exe = shutil.which("xdelta3")
     if exe is None:
-        raise RuntimeError("xdelta3 not found in PATH. Install xdelta3 to make or apply patches.")
+        raise RuntimeError(
+            "xdelta3 not found in PATH. Install xdelta3 to make or apply patches."
+        )
     return exe
 
 
@@ -50,7 +52,9 @@ def verify_sha256sums(patchdir: Path) -> None:
             raise RuntimeError(f"missing patch file {name} listed in {SHA_FILENAME}")
         actual = sha256_file(target)
         if actual != expected:
-            raise RuntimeError(f"checksum mismatch for {name}: expected {expected} got {actual}")
+            raise RuntimeError(
+                f"checksum mismatch for {name}: expected {expected} got {actual}"
+            )
 
 
 def make_patch(gamedir: Path, outdir: Path) -> list[Path]:
@@ -83,8 +87,14 @@ def apply_patch(gamedir: Path, patchdir: Path) -> list[Path]:
         if not backup.exists():
             original = gamedir / name
             if not original.exists():
-                raise RuntimeError(f"missing game file {original}; cannot create backup")
+                raise RuntimeError(
+                    f"missing game file {original}; cannot create backup"
+                )
             shutil.copy2(original, backup)
+            print(
+                f"warning: {backup.name} created from current file; "
+                "verify it is the pristine original"
+            )
         delta = patchdir / f"{name}{XD_DELTA_SUFFIX}"
         if not delta.exists():
             raise RuntimeError(f"missing delta file {delta}")

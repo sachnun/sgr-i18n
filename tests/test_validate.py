@@ -61,13 +61,17 @@ def test_s02_empty_target_fails(tmp_path):
 
 
 def test_s03_percent_c_fails(tmp_path):
-    path = write_json(tmp_path, "a.scn.m.json", valid_doc(valid_entry(jp="%Chello", target="hello")))
+    path = write_json(
+        tmp_path, "a.scn.m.json", valid_doc(valid_entry(jp="%Chello", target="hello"))
+    )
     issues = validate_scenario_file(path)
     assert any(i.rule == "S03" for i in issues)
 
 
 def test_s03_percent_c_ok(tmp_path):
-    path = write_json(tmp_path, "a.scn.m.json", valid_doc(valid_entry(jp="%Chello", target="%Chalo")))
+    path = write_json(
+        tmp_path, "a.scn.m.json", valid_doc(valid_entry(jp="%Chello", target="%Chalo"))
+    )
     assert [i for i in validate_scenario_file(path) if i.rule == "S03"] == []
 
 
@@ -79,7 +83,9 @@ def test_s04_dollar_names_fails(tmp_path):
 
 
 def test_s04_dollar_names_ok(tmp_path):
-    entry = valid_entry(jp="save ${dialog} ${needspace}", target="simpan ${needspace} ${dialog}")
+    entry = valid_entry(
+        jp="save ${dialog} ${needspace}", target="simpan ${needspace} ${dialog}"
+    )
     path = write_json(tmp_path, "a.scn.m.json", valid_doc(entry))
     assert [i for i in validate_scenario_file(path) if i.rule == "S04"] == []
 
@@ -139,7 +145,14 @@ def test_c02_prefix_dropped_fails(tmp_path):
 
 
 def test_c03_dollar_dropped_fails(tmp_path):
-    data = {"DIALOG_AUTOSAVE_NOSPACE": ["save ${dialog} ${needspace}", "simpan ${dialog}", "tc", "sc"]}
+    data = {
+        "DIALOG_AUTOSAVE_NOSPACE": [
+            "save ${dialog} ${needspace}",
+            "simpan ${dialog}",
+            "tc",
+            "sc",
+        ]
+    }
     path = write_json(tmp_path, "text.psb.m.json", data)
     issues = validate_text_config_file(path)
     assert any(i.rule == "C03" for i in issues)
@@ -190,3 +203,17 @@ def test_validate_config_dispatch(tmp_path):
     data = [{"key": "k", "text": ["a", "b", "c", "d"]}]
     path = write_json(tmp_path, "maildoc.psb.m.json", data)
     assert validate_config_file(path) == []
+
+
+def test_maildoc_duplicate_keys_fail(tmp_path):
+    raw = '[{"key": "k", "key": "j", "text": ["a", "b", "c", "d"]}]'
+    path = write_json(tmp_path, "maildoc.psb.m.json", [], raw=raw)
+    issues = validate_config_file(path)
+    assert any(i.rule == "C06" for i in issues)
+
+
+def test_c02_prefix_added_fails(tmp_path):
+    data = {"K": ["hello", "%Chalo", "tc", "sc"]}
+    path = write_json(tmp_path, "text.psb.m.json", data)
+    issues = validate_text_config_file(path)
+    assert any(i.rule == "C02" for i in issues)

@@ -18,7 +18,9 @@ def _init_by_array(seeds: list[int]) -> tuple[list[int], int]:
     i, j = 1, 0
     k = max(n, len(seeds))
     for _ in range(k):
-        mt[i] = ((mt[i] ^ ((mt[i - 1] ^ (mt[i - 1] >> 30)) * 1664525)) + seeds[j] + j) & 0xFFFFFFFF
+        mt[i] = (
+            (mt[i] ^ ((mt[i - 1] ^ (mt[i - 1] >> 30)) * 1664525)) + seeds[j] + j
+        ) & 0xFFFFFFFF
         i += 1
         j += 1
         if i >= n:
@@ -27,7 +29,9 @@ def _init_by_array(seeds: list[int]) -> tuple[list[int], int]:
         if j >= len(seeds):
             j = 0
     for _ in range(n - 1):
-        mt[i] = ((mt[i] ^ ((mt[i - 1] ^ (mt[i - 1] >> 30)) * 1566083941)) - i) & 0xFFFFFFFF
+        mt[i] = (
+            (mt[i] ^ ((mt[i - 1] ^ (mt[i - 1] >> 30)) * 1566083941)) - i
+        ) & 0xFFFFFFFF
         i += 1
         if i >= n:
             mt[0] = mt[n - 1]

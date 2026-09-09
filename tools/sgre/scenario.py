@@ -1,23 +1,3 @@
-from pydantic import BaseModel, ConfigDict
-
-
-class ScenarioText(BaseModel):
-    model_config = ConfigDict(extra="forbid")
-
-    speaker: str | None
-    jp: str
-    target: str
-    tc: str
-    sc: str
-
-
-class Scene(BaseModel):
-    model_config = ConfigDict(extra="forbid")
-
-    label: str
-    texts: list
-
-
 def slot_speaker(slot: list) -> str | None:
     if not isinstance(slot, list) or len(slot) == 0:
         return None
@@ -58,25 +38,3 @@ def entry_outer_speaker(entry: list) -> str | None:
     if isinstance(value, str):
         return value
     return None
-
-
-def to_scenario_text(entry: list) -> ScenarioText | None:
-    slots = entry_slots(entry)
-    if slots is None:
-        return None
-    return ScenarioText(
-        speaker=entry_outer_speaker(entry),
-        jp=slot_text(slots[0]),
-        target=slot_text(slots[1]),
-        tc=slot_text(slots[2]) if len(slots) > 2 else "",
-        sc=slot_text(slots[3]) if len(slots) > 3 else "",
-    )
-
-
-def is_text_entry(obj: object) -> bool:
-    if not isinstance(obj, list):
-        return False
-    if len(obj) not in (5, 6):
-        return False
-    slots = obj[1] if len(obj) > 1 else None
-    return isinstance(slots, list) and len(slots) == 4

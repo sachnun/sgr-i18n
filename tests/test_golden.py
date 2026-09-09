@@ -21,7 +21,12 @@ def test_mzs_golden_hash_stable():
 def test_config_golden_valid(tmp_path):
     data = {
         "DIALOG_OK": ["%C決定", "%COK", "%C確定", "%C确定"],
-        "DIALOG_SAVE": ["%C${dialog}を保存\nします", "%CSimpan ${dialog}\nnow", "%Ctc", "%Csc"],
+        "DIALOG_SAVE": [
+            "%C${dialog}を保存\nします",
+            "%CSimpan ${dialog}\nnow",
+            "%Ctc",
+            "%Csc",
+        ],
     }
     path = tmp_path / "text.psb.m.json"
     path.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
@@ -34,7 +39,12 @@ def test_scenario_golden_valid(tmp_path):
 
     entry = [
         "少女",
-        [[None, "こんにちは", 10], ["少女", "Halo", 10], ["少女", "你好", 10], ["少女", "你好", 10]],
+        [
+            [None, "こんにちは", 10],
+            ["少女", "Halo", 10],
+            ["少女", "你好", 10],
+            ["少女", "你好", 10],
+        ],
         None,
         200,
         {"data": [], "env": {"name": "env"}, "msgwin": 0},
