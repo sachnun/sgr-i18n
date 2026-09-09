@@ -1,5 +1,3 @@
-# STEINS;GATE REBOOT Translation Kit
-
 Workflow and scripts to translate STEINS;GATE REBOOT (PC) into any language.
 
 ## Quick Install
